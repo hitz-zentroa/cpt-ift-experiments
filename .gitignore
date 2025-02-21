@@ -2,3 +2,4 @@
 
 model/**
 last_run_prepared/**
+wandb/**
