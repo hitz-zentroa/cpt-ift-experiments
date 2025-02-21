@@ -1,0 +1,15 @@
+{"time":"2025-02-20T20:17:51.861269102+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/gscratch5/users/asalem/cpt-ift/wandb/run-20250220_201750-29vb2dcu/logs/debug-core.log"}
+{"time":"2025-02-20T20:17:52.219514547+01:00","level":"INFO","msg":"created new stream","id":"29vb2dcu"}
+{"time":"2025-02-20T20:17:52.219547428+01:00","level":"INFO","msg":"stream: started","id":"29vb2dcu"}
+{"time":"2025-02-20T20:17:52.219601679+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"29vb2dcu"}
+{"time":"2025-02-20T20:17:52.219637837+01:00","level":"INFO","msg":"handler: started","stream_id":"29vb2dcu"}
+{"time":"2025-02-20T20:17:52.222559078+01:00","level":"INFO","msg":"sender: started","stream_id":"29vb2dcu"}
+{"time":"2025-02-20T20:17:52.489546835+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-20T22:55:04.593649504+01:00","level":"INFO","msg":"stream: closing","id":"29vb2dcu"}
+{"time":"2025-02-20T22:55:04.593748098+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-20T22:55:04.594820813+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-20T22:55:05.739290571+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-20T22:55:05.937874268+01:00","level":"INFO","msg":"handler: closed","stream_id":"29vb2dcu"}
+{"time":"2025-02-20T22:55:05.9379234+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"29vb2dcu"}
+{"time":"2025-02-20T22:55:05.937943468+01:00","level":"INFO","msg":"sender: closed","stream_id":"29vb2dcu"}
+{"time":"2025-02-20T22:55:05.939886099+01:00","level":"INFO","msg":"stream: closed","id":"29vb2dcu"}
