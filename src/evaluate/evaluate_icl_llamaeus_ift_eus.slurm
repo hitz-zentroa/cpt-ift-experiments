@@ -24,14 +24,14 @@ models=(
 )
 
 benchmarks=(
-    "belebele_eus_Latn"
-    "eus_trivia"
-    "eus_reading"
-    "eus_proficiency"
-    "eus_exams_eu"
-    "xstorycloze_eu"
-    "xnli_eu"
-    "icp_bench"
+    #"belebele_eus_Latn"
+    #"eus_trivia"
+    #"eus_reading"
+    #"eus_proficiency"
+    #"eus_exams_eu"
+    #"xstorycloze_eu"
+    #"xnli_eu"
+    "copain"
 )
 
 results_path=/gscratch5/users/asalem/cpt-ift/results/icl_benchmarks
