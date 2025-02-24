@@ -34,7 +34,7 @@ benchmarks=(
     "copain"
 )
 
-results_path=/gscratch5/users/asalem/cpt-ift/results/icl_benchmarks
+results_path=/gscratch5/users/asalem/cpt-ift/results/icl_benchmarks/en-lr1e04
 
 
 
