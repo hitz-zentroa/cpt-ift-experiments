@@ -20,8 +20,9 @@ export TOKENIZERS_PARALLELISM=false
 
 
 models=(
-    "ift-llama-eus-alpaca-lr1e04"
-    "ift-llama-eus-alpaca-lr1e05"
+    "ift-llama-eus-alpaca-lr1e05-10ksteps/checkpoint-26"
+    #"ift-llama-eus-alpaca-lr1e04"
+    #"ift-llama-eus-alpaca-lr1e05"
 )
 benchmarks=(
     "belebele_eus_Latn"

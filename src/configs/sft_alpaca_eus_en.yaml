@@ -69,7 +69,7 @@ neftune_noise_alpha: 5
 wandb_project: cpt-instruction-exp
 wandb_entity: ahelhady511
 wandb_watch:
-wandb_name: cpt_ift
+wandb_name: cpt_ift_eus+en_lr1e-04
 wandb_log_model: 
 
 gradient_accumulation_steps: 32
@@ -78,7 +78,7 @@ eval_batch_size: 2
 num_epochs: 2
 optimizer: adamw_torch_fused
 lr_scheduler: cosine
-learning_rate: 1e-05
+learning_rate: 1e-04
 
 
 train_on_inputs: false

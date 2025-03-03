@@ -1,0 +1,90 @@
+base_model: HiTZ/latxa-7b-v1.2
+model_type: AutoModelForCausalLM
+tokenizer_type: AutoTokenizer
+
+trust_remote_code: true
+load_in_8bit: false
+load_in_4bit: false
+strict: false
+
+device_map: null
+
+datasets:
+  - path: ahmedselhady/alpaca_mt_eus
+    type: alpaca
+    train_on_split: train 
+    trust_remote_code: true
+  
+  - path:  ahmedselhady/alpaca_mt_eus
+    type: alpaca
+    train_on_split: test
+    trust_remote_code: true
+
+shuffle_merged_datasets: true
+dataset_exact_deduplication: true
+
+# test_datasets:
+#   - path:  ahmedselhady/alpaca_mt_eus
+#     type: alpaca
+#     split: test
+
+chat_template: tokenizer_default_fallback_llama3
+hf_use_auth_token: true
+val_set_size: 0.02
+
+output_dir: /gscratch5/users/asalem/cpt-ift/model/ift-latxa12-alpaca_eus-lr1e05-10ksteps
+
+adapter:
+lora_model_dir:
+
+sequence_len: 8192
+sample_packing: true
+eval_sample_packing: false
+pad_to_sequence_len: false
+
+
+special_tokens:
+   pad_token: <|end_of_text|>
+
+neftune_noise_alpha: 5
+
+wandb_project: cpt-instruction-exp
+wandb_entity: ahelhady511
+wandb_watch:
+wandb_name: cpt_ift_latxa12_eus_lr1e-05_10ksteps
+wandb_log_model: 
+
+gradient_accumulation_steps: 8
+micro_batch_size: 2
+eval_batch_size: 2
+max_steps: 10000
+optimizer: adamw_torch_fused
+lr_scheduler: constant
+learning_rate: 1e-05
+max_grad_norm: 1.0
+
+train_on_inputs: false
+group_by_length: false
+bf16: true
+fp16: false
+tf32: false
+
+gradient_checkpointing: true
+early_stopping_patience:
+resume_from_checkpoint:
+local_rank:
+logging_steps: 1
+xformers_attention: false
+flash_attention: false
+
+warmup_ratio: 0.03
+eval_steps: 100
+eval_table_size:
+save_strategy: "no"
+debug:
+deepspeed: /gscratch5/users/asalem/cpt-ift/src/configs/deepspeed/deepspeed_zero3.json
+weight_decay: 0.0
+fsdp:
+fsdp_config:
+
+seed: 33
