@@ -20,7 +20,8 @@ export TOKENIZERS_PARALLELISM=false
 
 
 models=(
-    "ift-llama-eus-alpaca-lr1e05-10ksteps/checkpoint-26"
+    "meta-llama/Llama-3.1-8B"
+    #"ift-llama-eus-alpaca-lr1e05-10ksteps/checkpoint-26"
     #"ift-llama-eus-alpaca-lr1e04"
     #"ift-llama-eus-alpaca-lr1e05"
 )
@@ -32,7 +33,7 @@ benchmarks=(
     "eus_exams_eu"
     "xstorycloze_eu"
     "xnli_eu"
-    "copain"
+    #"copain"
 )
 
 results_path=/gscratch5/users/asalem/cpt-ift/results/icl_benchmarks
@@ -41,7 +42,8 @@ results_path=/gscratch5/users/asalem/cpt-ift/results/icl_benchmarks
 
 for model in "${models[@]}"; do
 
-    model_name='/gscratch5/users/asalem/cpt-ift/model/'$model
+    model_name=$model
+    #'/gscratch5/users/asalem/cpt-ift/model/'$model
     for benchmark_name in "${benchmarks[@]}"; do
 
 
