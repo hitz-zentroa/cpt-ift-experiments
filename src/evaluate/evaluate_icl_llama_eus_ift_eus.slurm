@@ -20,7 +20,8 @@ export TOKENIZERS_PARALLELISM=false
 
 
 models=(
-    "meta-llama/Llama-3.1-8B"
+    "ift-llama3dot1-baseline-alpaca_eus-lr1e05-10ksteps/checkpoint-15"
+    #"meta-llama/Llama-3.1-8B"
     #"ift-llama-eus-alpaca-lr1e05-10ksteps/checkpoint-26"
     #"ift-llama-eus-alpaca-lr1e04"
     #"ift-llama-eus-alpaca-lr1e05"
@@ -42,8 +43,7 @@ results_path=/gscratch5/users/asalem/cpt-ift/results/icl_benchmarks
 
 for model in "${models[@]}"; do
 
-    model_name=$model
-    #'/gscratch5/users/asalem/cpt-ift/model/'$model
+    model_name='/gscratch5/users/asalem/cpt-ift/model/'$model
     for benchmark_name in "${benchmarks[@]}"; do
 
 
