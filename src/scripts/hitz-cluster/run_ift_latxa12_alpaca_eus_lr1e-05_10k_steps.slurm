@@ -5,7 +5,7 @@
 #SBATCH --ntasks-per-node=1
 #SBATCH --time=3-00:00:00
 #SBATCH --mem=100GB
-#SBATCH --gres=gpu:2
+#SBATCH --gres=gpu:3
 #SBATCH --output=.slurm/sft_baseline_alpaca_eus_lr1e-05_10ksteps.out
 #SBATCH --error=.slurm/sft_baseline_alpaca_eus_lr1e-05_10ksteps.err
 
