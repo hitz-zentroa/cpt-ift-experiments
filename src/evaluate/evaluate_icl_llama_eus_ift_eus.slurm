@@ -53,6 +53,7 @@ for model in "${models[@]}"; do
     else
         model_name='/gscratch5/users/asalem/cpt-ift/model/'$model
     fi
+
     for benchmark_name in "${benchmarks[@]}"; do
 
 
