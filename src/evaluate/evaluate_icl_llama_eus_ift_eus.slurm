@@ -20,13 +20,18 @@ export TOKENIZERS_PARALLELISM=false
 
 
 models=(
-    "ift-llama3dot1-baseline-alpaca_eus-lr1e05-10ksteps/checkpoint-15"
+    #"ift-llama3dot1-baseline-alpaca_eus-lr1e05-10ksteps/checkpoint-15"
     #"meta-llama/Llama-3.1-8B"
     #"ift-llama-eus-alpaca-lr1e05-10ksteps/checkpoint-26"
+    #"ahmedselhady/llama2-7B-eus-v1"
     #"ift-llama-eus-alpaca-lr1e04"
     #"ift-llama-eus-alpaca-lr1e05"
+    #"google/gemma-2-9b"
+    "ift-gemma2-9b_alpaca_eus_lr1e-05-10ksteps/checkpoint-14"
 )
 benchmarks=(
+    "paws_eu"
+    "piqa_eu"
     "belebele_eus_Latn"
     "eus_trivia"
     "eus_reading"
@@ -43,7 +48,11 @@ results_path=/gscratch5/users/asalem/cpt-ift/results/icl_benchmarks
 
 for model in "${models[@]}"; do
 
-    model_name='/gscratch5/users/asalem/cpt-ift/model/'$model
+    if [[ $model == "ahmedselhady/"* || $model == "google/"* ]]; then
+        model_name=$model
+    else
+        model_name='/gscratch5/users/asalem/cpt-ift/model/'$model
+    fi
     for benchmark_name in "${benchmarks[@]}"; do
 
 
