@@ -1,4 +1,4 @@
-base_model: google/gemma-2-9b
+base_model: /leonardo/home/userexternal/amohamed/cpt-ift-experiments/src/cpt/gemma2-9b
 model_type: AutoModelForCausalLM
 tokenizer_type: AutoTokenizer
 
@@ -10,12 +10,15 @@ strict: false
 device_map: null
 
 pretraining_dataset:
-  - path: HiTZ/latxa-corpus-v1.1
-    name: euscrawl-v1.1
-    split: train
+  - path: json
+    # name: colossal-oscar #euscrawl-v1.1
+    # split: train
+    data_files:
+      - /leonardo/home/userexternal/amohamed/cpt-ift-experiments/data/euscrawl-v1.1/train.jsonl
+      - /leonardo/home/userexternal/amohamed/cpt-ift-experiments/data/euscrawl-v1.1/valid.jsonl
     type: completion
     text_column: text
-    trust_remote_code: true
+    # trust_remote_code: true
 
     # conversation: llama3
     # field: conversations
@@ -30,9 +33,14 @@ shuffle_merged_datasets: true
 # dataset_exact_deduplication: true
 
 test_datasets:
-  - path: HiTZ/latxa-corpus-v1.1
-    name: euscrawl-v1.1
-    split: test
+  - path: json
+    # name: colossal-oscar #euscrawl-v1.1
+    # split: train
+    data_files:
+      - /leonardo/home/userexternal/amohamed/cpt-ift-experiments/data/euscrawl-v1.1/test.jsonl
+  # - path: HiTZ/latxa-corpus-v1.1
+  #   name: euscrawl-v1.1
+  #   split: test
     type: completion
     text_column: text
     trust_remote_code: true
@@ -41,17 +49,16 @@ test_datasets:
 hf_use_auth_token: true
 # val_set_size: 0.075
 
-output_dir: /gscratch5/users/asalem/cpt-ift/model/cpt-gemma2-9b
+output_dir: /leonardo_scratch/large/userexternal/amohamed/gemma2-9b-cpt #/gscratch5/users/asalem/cpt-ift/model/cpt-gemma2-9b
 
 adapter: 
 lora_model_dir:
 
-# lora_r: 128
+# lora_r: 32
 # lora_alpha: 8
 # lora_dropout: 0
-# lora_target_modules:
-# # ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"]
-# lora_target_linear: #true
+# lora_target_modules:  ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"]
+# lora_target_linear: true
 # lora_fan_in_fan_out:
 # lora_on_cpu: true  
 
@@ -85,7 +92,7 @@ gradient_accumulation_steps: 64
 micro_batch_size: 1
 eval_batch_size: 1
 max_steps: 10000
-optimizer: adamw_bnb_8bit
+optimizer: adamw_torch
 lr_scheduler: cosine
 learning_rate: 1e-05
 
@@ -107,7 +114,9 @@ flash_attention: false
 warmup_ratio: 0.03
 evals_per_epoch: 4
 eval_table_size:
-save_strategy: "no"
+save_strategy:
+save_steps: 500
+save_total_limit: 5
 debug:
 deepspeed: 
 #/gscratch5/users/asalem/cpt-ift/src/configs/deepspeed/deepspeed_zero3.json

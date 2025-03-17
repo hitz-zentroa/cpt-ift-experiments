@@ -4,7 +4,7 @@ tokenizer_type: AutoTokenizer
 
 trust_remote_code: true
 load_in_8bit: false
-load_in_4bit: false
+load_in_4bit: true
 strict: false
 
 device_map: null
@@ -34,9 +34,16 @@ val_set_size: 0.02
 
 output_dir: /gscratch5/users/asalem/cpt-ift/model/ift-latxa3dot1-baseline-alpaca_eus-lr1e05-10ksteps
 
-adapter:
+adapter: lora
 lora_model_dir:
 
+lora_r: 64
+lora_alpha: 8
+lora_target_modules:
+  - q_proj
+  - v_proj
+  - k_proj
+  - o_proj
 sequence_len: 8192
 sample_packing: true
 eval_sample_packing: false
@@ -51,7 +58,7 @@ neftune_noise_alpha: 5
 wandb_project: cpt-instruction-exp
 wandb_entity: ahelhady511
 wandb_watch:
-wandb_name: cpt_ift_latxa3dot1_eus_lr1e-05_10ksteps
+wandb_name: cpt_ift_latxa3dot1_eus_lr1e-05_10ksteps_lora
 wandb_log_model: 
 
 gradient_accumulation_steps: 16
@@ -83,7 +90,8 @@ eval_steps: 100
 eval_table_size:
 save_strategy: "no"
 debug:
-deepspeed: /gscratch5/users/asalem/cpt-ift/src/configs/deepspeed/deepspeed_zero3.json
+deepspeed: 
+#/gscratch5/users/asalem/cpt-ift/src/configs/deepspeed/deepspeed_zero3.json
 weight_decay: 0.0
 fsdp:
 fsdp_config:

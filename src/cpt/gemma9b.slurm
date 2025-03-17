@@ -5,7 +5,7 @@
 #SBATCH --ntasks-per-node=1
 #SBATCH --time=10-00:00:00
 #SBATCH --mem=100GB
-#SBATCH --gres=gpu:3
+#SBATCH --gres=gpu:1
 #SBATCH --output=.slurm/cpt-gemma2-9b.out
 #SBATCH --error=.slurm/cpt-gemma2-9b.err
 

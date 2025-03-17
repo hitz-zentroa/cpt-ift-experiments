@@ -27,11 +27,10 @@ models=(
     #"ift-llama-eus-alpaca-lr1e04"
     #"ift-llama-eus-alpaca-lr1e05"
     #"google/gemma-2-9b"
+    "Latxa3.1_8b_lr1e-5"
     "ift-gemma2-9b_alpaca_eus_lr1e-05-10ksteps/checkpoint-14"
 )
 benchmarks=(
-    "paws_eu"
-    "piqa_eu"
     "belebele_eus_Latn"
     "eus_trivia"
     "eus_reading"
@@ -39,6 +38,8 @@ benchmarks=(
     "eus_exams_eu"
     "xstorycloze_eu"
     "xnli_eu"
+    "paws_eu"
+    "piqa_eu"
     #"copain"
 )
 
@@ -51,7 +52,8 @@ for model in "${models[@]}"; do
     if [[ $model == "ahmedselhady/"* || $model == "google/"* ]]; then
         model_name=$model
     else
-        model_name='/gscratch5/users/asalem/cpt-ift/model/'$model
+        model_name='/proiektuak/ikergaitu-data/azabala106/model_evaluation/trained_models/'$model
+        #'/gscratch5/users/asalem/cpt-ift/model/'$model
     fi
 
     for benchmark_name in "${benchmarks[@]}"; do
