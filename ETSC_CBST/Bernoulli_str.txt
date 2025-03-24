@@ -1,0 +1,218 @@
+<doc id="Bernoulli_elhAldizk13_o.txt">
+<frase id="1" frase_all="1">Bernoulli gabe hegan</frase>
+<frase id="2" frase_all="2">Airea beherantz bultzatuta egiten dute hegan hegazkinek.</frase>
+<frase id="3" frase_all="3">Azalpen horren partez, ordea, asko zabaldu da hegaldiaren sekretua beste fenomeno fisiko bat dela: Bernoulliren printzipioa.</frase>
+<frase id="4" frase_all="4">Printzipio hori gertatzen da hegazkinen hegoetan hegan egiten ari denean, baina ez da hegaldiaren eragile nagusia.</frase>
+<frase id="5" frase_all="5;6">Hala eta guztiz ere, azalpenaren sinplifikazioak protagonista bihurtu du Bernoulli.</frase>
+<frase id="6" frase_all="7">Boeing 747 batek, hegaldi transatlantikoak egiten dituen ohiko hegazkinak, 180 tona pisatzen du, gutxi gorabehera, hutsik dagoenean.</frase>
+<frase id="7" frase_all="8">Hegaldi komertzialetako zamak bikoiztu egin dezake pisua.</frase>
+<frase id="8" frase_all="9">Airbus 380a are handiagoa da.</frase>
+<frase id="9" frase_all="10">Zama guztiarekin, 573 tonara irits daiteke.</frase>
+<frase id="10" frase_all="11">Hegan egiteko, pisu hori guztia konpentsatzen duen indar bat behar da.</frase>
+<frase id="11" frase_all="12">Hala ere, ingeniari aeronautikoentzat indar hori aurkitzea ez da erronka bat, hegazkin horiei airean eusten dien printzipio fisikoa eta paperezko hegazkin bati eusten diona printzipio bera delako.</frase>
+<frase id="12" frase_all="13;14">Hala esaten du La Pizarra de Yuri blogeko Antonio Cantó dibulgatzaile eta hegazkinetan adituak: "Paperezko hegazkinaren hegaldia azaltzen ez duen euste aerodinamikoaren edozein hipotesi seguruenik okerra da, eta --hau ziur-- osatugabea".</frase>
+<frase id="13" frase_all="15;16">Paperezko hegazkinak, Boeing 747ak, helikoptero batek, txori batek eta erle batek, bakoitzak oso diseinu ezberdinarekin, eta bakoitzak bere kondizioekin, airea beherantz bultzatuta egiten dute hegan.</frase>
+<frase id="14" frase_all="17">Oinarrizko printzipioa hori da.</frase>
+<frase id="15" frase_all="18">Hortik aurrerako azalpena konplexua da, eta hegalari batetik bestera asko aldatzen da.</frase>
+<frase id="16" frase_all="19">Hegazkinei dagokienez, ordea, oinarrizko azalpen horren partez, beste bat zabaldu da; alegia, Bernoulliren printzipioak eusten diela airean.</frase>
+<frase id="17" frase_all="20;21;22">Azalpen horrek bere horretan ez du azaltzen hegaldia, baina kasu berezia da, benetan gertatzen den fenomeno batean oinarrituta dagoelako eta dibulgazioan asko erabili delako.</frase>
+<frase id="18" frase_all="23;24;25">Chicago Reader egunkarian Straigh Dope zutabea idazten duen Cecil Adams dibulgatzailearen hitzetan, ideia hori "zientziako testu-liburu errespetagarri batzuetan ere argitaratu izan da".</frase>
+<frase id="19" frase_all="26">Hala ere, testu teknikoetan ez da horrelakorik agertzen.</frase>
+<frase id="20" frase_all="27;28">Dibulgazioan, ohikoa da ideiak sinplifikatzea, eta Bernoulliren printzipioaren azalpena da horren adibideetako bat. </frase>
+<frase id="21" frase_all="29">Printzipioa hegan egitearen parte bat da, baina ez da hegan egitearen giltzarria.</frase>
+<frase id="22" frase_all="30;31;32">Daniel Bernoulli XVIII. mendeko matematikari eta ingeniari neederlandar bat izan zen, eta zientziaren historian ospetsua da fluidoen dinamikan egin zituen ikerketengatik.</frase>
+<frase id="23" frase_all="33;34">Haren printzipio ezagunenaren arabera, fluido batek, zenbat eta abiadura handiagoan mugitu, orduan eta presio gutxiago egiten du gainazal solido baten gainean.</frase>
+<frase id="24" frase_all="35">Berez, ez dago erlaziorik hegaldiaren eta Bernoulliren bizitzaren artean.</frase>
+<frase id="25" frase_all="36;37">Mende hartan, hegan egiteko modu bakarra globoa zen; Montgolfier anaiek lehen hegaldia Bernoulli hil eta bost hilabetera egin zuten.</frase>
+<frase id="26" frase_all="38">Eta hegazkinaren kontzeptua ere ez zen existitzen.</frase>
+<frase id="27" frase_all="39;40">Baina airea fluido bat da, eta hegazkinaren hegoak bi gainazal solido handi.</frase>
+<frase id="28" frase_all="41">Hegoen forma berezia da.</frase>
+<frase id="29" frase_all="42;43">Hegazkin gehienetan, hegoak kurbatuak daude goialdetik eta lauak dira azpialdetik, eta hegoaren goialdetik doan aireak bide luzeagoa egiten du eta azkarrago mugitzen da behealdetik doana baino.</frase>
+<frase id="30" frase_all="44">Gainera, goiko airea lehenago iristen da hegoaren bukaerara beheko airea baino..</frase>
+<frase id="31" frase_all="45;46">Hor dator Bernoulli: haren printzipioak azaltzen du fluxu horrek presio handiagoa egiten diola hegoari behetik goitik baino.</frase>
+<frase id="32" frase_all="47">Eta, horren ondorioz, hegazkina airean altxatzen da.</frase>
+<frase id="33" frase_all="48">Oro har, hegaldia horrela azaltzen dute.</frase>
+<frase id="34" frase_all="49;50;51">Argudioa zuzena da; hegoen ohiko diseinu horretan, Bernoulliren printzipioagatik, hegazkinak goranzko indar bat jasotzen du.</frase>
+<frase id="35" frase_all="52">Baina argudio hori ez da nahikoa azken ondoriora iristeko, eta, beraz, ondorio okerra da: indar hori ez da hegazkinari airean eusteko bezain handia.</frase>
+<frase id="36" frase_all="53">Kalkuluak argiak dira.</frase>
+<frase id="37" frase_all="54;55">Bernoulliren efektua handitu egiten da hegazkinaren abiadurarekin, baina hegazkin txiki estandar baten pisuari airean eusteko --Cessna 152 bati, esate baterako--, abiadura 480 km/h baino gehiagokoa izan beharko luke, eta hegazkin txiki horiek nekez iristen dira 100 km/h-ko abiadurara.</frase>
+<frase id="38" frase_all="56">Eta beste edozein hegazkinekin ere gauza bera gertatzen da; Bernoulliren printzipioak eragindako goranzko indarra hegazkinak behar duenaren % 1era ez dela iristen.</frase>
+<frase id="39" frase_all="57">Zenbakiak alde batera utzita ere atzematen da Bernoulliren efektua ez dela hegan egitearen arrazoia.</frase>
+<frase id="40" frase_all="58">Batetik, akrobaziak egiten dituzten hegazkinen kasua nabarmena da. </frase>
+<frase id="41" frase_all="59;60">Hegazkin horiek azpikoz gora ere egiten dute hegan, eta une horietan, hegazkina ez ezik, Bernoulliren efektua ere kontrako aldera zuzenduta dago.</frase>
+<frase id="42" frase_all="61">Goian aurkeztutako hegoen kasuan, efektuak lurrerantz bultzatzen du hegazkina.</frase>
+<frase id="43" frase_all="62">Bestalde, hego guztiek ez dute lehen aipatutako diseinu hori.</frase>
+<frase id="44" frase_all="63">Adibide bat gaur egungo hegazkin komertzialen hegoak dira.</frase>
+<frase id="45" frase_all="63">Haien diseinua plano aerodinamiko superkritikoan oinarrituta dago. </frase>
+<frase id="46" frase_all="64">NASAko Richard Whitcomb ingeniariak diseinatu zuen 1960ko hamarkadan, eta ia laua da goialdetik; oso kurbadura txikia du, eta Bernoulliren printzipioaren efektua ere oso txikia da.</frase>
+<frase id="47" frase_all="65">Beste adibide argigarri bat historiako lehen hegazkinak dira: 1896ko Samuel Langleyren tripulatu gabeko makinak, Wright anaien Flyer famatuak eta hurrengo urteetan egin ziren hegazkinek kurbatuak zituzten hegoak bi aldeetatik, goitik eta behetik.</frase>
+<frase id="48" frase_all="66;67">Haietan, aireak ibilbide bera egiten du bi aldeetatik, eta Bernoulliren efektuak ez du eraginik. </frase>
+<frase id="49" frase_all="68">Paperezko hegazkinetan eta delta-hegaletan, berdin.</frase>
+<frase id="50" frase_all="69">Airean eusten dien indarra beste zerbaitek sortzen du.</frase>
+<frase id="51" frase_all="70">Gakoa Newtonen hirugarren legean datza, akzio-erreakzio printzipioan: hegazkinak airea beherantz bultzatuta, aireak gorantz bultzatzen du hegazkina.</frase>
+<frase id="52" frase_all="71">Baina nola gertatzen da hori? Erantzuna beste faktore batean dago: eraso-angelua.</frase>
+<frase id="53" frase_all="72">Hegan egitean, hegoaren sekzioa ez da egoten horizontal, eraso-angelu bat izaten du, eta, angelu horrengatik, hegoaren atzetik irteten den airea beherantz doa.</frase>
+<frase id="54" frase_all="73">Erraz sentitu daitekeen indarra da.</frase>
+<frase id="55" frase_all="74;75;76">Discovery Channelek produzitu zuen Understanding Flight dokumentalean, John Travolta aktoreak berak --pilotua da-- azaltzen zuen nola: "Autoa gidatzen ari zarenean, 50 km/h-an gutxienez, segurua bada, zabaldu leihoa eta luzatu besoa kanpoaldean".</frase>
+<frase id="56" frase_all="77;78;79">Besoa biratu eta eskua goranzko angelu batean jarriz gero, goranzko indarra nabarituko du eskuak.</frase>
+<frase id="57" frase_all="80;81">"Behatzekin biribiltzen baduzu eskua, efektua areagotu egiten da", azaltzen du Burt Rutan hegazkinen diseinatzaileak dokumental berean.</frase>
+<frase id="58" frase_all="82">Hegaztien lumek ere diseinu kurbatu hori dute.</frase>
+<frase id="59" frase_all="83">Zenbat eta aire gehiago bultzatu beherantz, orduan eta goranzko indar handiagoa jasotzen du hegazkinak. </frase>
+<frase id="60" frase_all="84">Eta zenbat eta azkarrago joan, orduan eta aire gehiagori egiten dio hegazkinak bultza beherantz.</frase>
+<frase id="61" frase_all="85;86">Hegazkina poliki mugitzen bada, euste-indar bera izateko, eraso-angelua handiagoa izan behar du, baina muga bateraino. </frase>
+<frase id="62" frase_all="87;88">Angelua 18-20 gradukoa denean, hegoaren inguruko aireak utzi egiten dio geruzatan mugitzeari eta zurrunbiloak sortzen hasten dira.</frase>
+<frase id="63" frase_all="89;90">Euste-indarra desagertu egiten da, eta hegazkina erori.</frase>
+<frase id="64" frase_all="91"> Horregatik, hegaldia eraso-angelu txikietan oinarrituta dago; normalean, 10 gradu bitartekoa izaten da.</frase>
+<frase id="65" frase_all="92">Angelu horrek paperezko hegazkinaren hegaldia ere azaltzen du; hain zuzen, angelu horren inguruan irauten duen bitartean planeatuko du hegazkinak.</frase>
+<frase id="66" frase_all="93">Eraso-angeluarekin batera, beste faktore askok hartzen dute parte hegazkinaren airea beherantz bultzatzeko ahalmenean: hegoen luzera eta azalera, hegazkinaren altueraren araberako aire-dentsitatea, haizea eta abar.</frase>
+<frase id="67" frase_all="94;95;96">Baina eraso-angelua gakoa da, eta horrek erabateko garrantzia du pilotuentzat; neurri handi batean, hegazkin bat pilotatzea eraso-angelua egokitzearen artea da.</frase>
+<frase id="68" frase_all="97">Angelu-jokoan agertzen da berriz Bernoulliren printzipioa.</frase>
+<frase id="69" frase_all="98">Angeluan egiten diren aldaketek azkartu eta moteldu egiten dituzte airearen bi fluxuak, alegia hegoaren gainekoa eta azpikoa.</frase>
+<frase id="70" frase_all="99;100;101">Bi fluxuen presioa ezberdina da, eta horregatik sortzen den goranzko bultzadak ere laguntzen du. </frase>
+<frase id="71" frase_all="102">Bernoulli ez dago erabat baztertuta hegaldiaren azalpenetik.</frase>
+<frase id="72" frase_all="103">Ez dago erabat baztertuta, baina ez da hegan egitearen arrazoi nagusia. </frase>
+<frase id="73" frase_all="104">Hegoaren forma ez da hegazkin bat hegalari bihurtzen duen funtsezko faktorea.</frase>
+<frase id="74" frase_all="105">Hala ere, badu garrantzia.</frase>
+<frase id="75" frase_all="106">Bestela, zergatik egiten dituzte hego gehienak forma berekoak? Arrazoi bat baino gehiago dago. </frase>
+<frase id="76" frase_all="107">Alde batetik, hegoen ohiko itxura oso aerodinamikoa da.</frase>
+<frase id="77" frase_all="108">Hegazkinaren diseinua ez da bakarrik airean eusten dion indarraren araberakoa; beste hiru indar garrantzitsu daude: pisua bera, aurreranzko propultsioa eta airearen erresistentzia.</frase>
+<frase id="78" frase_all="109;110">Azken indar hori mugimenduaren kontrako norabidean doa, eta, horri aurre egiteko, aukera ona da ohiko hegoaren profila erabiltzea.</frase>
+<frase id="79" frase_all="111">Bestetik, hegoaren profilaren arabera aldatzen da eraso-angeluaren muga.</frase>
+<frase id="80" frase_all="112">Gainetik kurbatuak diren hegoek lauek baino angelu handiagoetan funtzionatzen dute. </frase>
+<frase id="81" frase_all="113;114">Beraz, hegoaren formak, nahiz eta hegan egitearen lehen arrazoia ez izan, garrantzi handia du, inguruan duen airearen jarioan asko eragiten duelako.</frase>
+<frase id="82" frase_all="115">Aireak hegazkinaren inguruan duen jokabidea zoruak alda dezake, hegaldia oso baxua denean.</frase>
+<frase id="83" frase_all="116">Kasu horretan presio-diferentzia oso handia gertatzen da hegazkinaren gaineko eta azpiko aire-fluxuen artean. </frase>
+<frase id="84" frase_all="117;118">Zorua oso gertu dagoenean, hegazkinaren azpiko airea konprimatuta dago, eta presio handiko poltsa bat sortzen da.</frase>
+<frase id="85" frase_all="119">Sortzen den aldea oso handia da, eta hegazkinak jasotzen duen goranzko indarra handia da.</frase>
+<frase id="86" frase_all="120">Zoru-efektua deritzo.</frase>
+<frase id="87" frase_all="121">Hori ere ez da Bernoulliren ekarpena, baina bada presio-diferentziaren ondorioa. </frase>
+<frase id="88" frase_all="122">Eta berriz ere, airea beherantz bultzatzearen ondorioa da.</frase>
+<frase id="89" frase_all="123">Azken batean, hori da hegan egitearen sekretua.</frase>
+</doc>
+
+
+<doc id="Bernoulli_str_s.txt">
+<frase id="1" frase_all="1">Bernoulli gabe hegan egiten dugu.</frase>
+<frase id="2" frase_all="2">Airea beherantz bultzatzen da; orduan hegazkinek hegan egiten dute.</frase>
+<frase id="3" frase_all="3">Ordea, hegan egiteko sekretua beste fenomeno fisiko bat da: Bernoulliren printzipioa; uste hori asko zabaldu da. </frase>
+<frase id="4" frase_all="4">Hegan egiten dugu; orduan, hegazkinen hegoetan gertatzen da printzipio hori.</frase>
+<frase id="5" frase_all="4">Ez da, baina, hegan egiteko arrazoi nagusia.</frase>
+<frase id="6" frase_all="5">Hala eta guztiz ere, azalpena oso sinplea da; azalpen sinple horrek Bernoulli protagonista bihurtu du.</frase>
+<frase id="7" frase_all="6">Boeing 747 hegazkinak hegaldi trasatlantikoak egiten ditu; Boeing 747-k 180 tona inguru pisatzen du hutsik. </frase>
+<frase id="8" frase_all="7">Hegaldi komertzialetako zamak bikoiztu egin dezake pisua.</frase>
+<frase id="9" frase_all="8">Airbus 380a are handiagoa da.</frase>
+<frase id="10" frase_all="9">Zama guztiarekin, 573 tonara irits daiteke.</frase>
+<frase id="11" frase_all="10">Hegan egiteko pisu hori guztia konpentsatu behar da indar baten bidez.</frase>
+<frase id="12" frase_all="11">Hala ere, ingeniari aeronautikoentzat indar hori aurkitzea ez da erronka bat; izan ere, hegazkin horiei airean eusteko printzipio fisikoa eta paperezko hegazkin bati eustekoa printzipio bera da.</frase>
+<frase id="13" frase_all="12">Antonio Cantó dibulgatzailea da; Antonio Cantó hegazkinetan aditua da.</frase>
+<frase id="14" frase_all="12">La Pizarra de Yuri blogeko blogaria da.</frase>
+<frase id="15" frase_all="13">Paperezko hegazkinak, Boeing 747ak, helikoptero batek, txori batek eta erle batek, airea beherantz bultzatuta egiten dute hegan.</frase>
+<frase id="16" frase_all="13">Bakoitzak bere diseinua du; bakoitzak bere ezaugarriak ditu.</frase>
+<frase id="17" frase_all="14">Hori da oinarrizko printzipioa.</frase>
+<frase id="18" frase_all="15">Hortik aurrerako azalpena konplexua da; hegalari batetik bestera asko aldatzen da. </frase>
+<frase id="19" frase_all="16">Hegazkinei dagokienez, ordea, beste azalpen bat zabaldu da; azalpen hori ez da oinarrizko azalpena:  Bernoulliren printzipioak eusten die airean.</frase>
+<frase id="20" frase_all="17">Azalpen horrek bere horretan ez du azaltzen hegaldia; baina kasu berezia da; izan ere, fenomeno batean oinarritzen da.</frase>
+<frase id="21" frase_all="17">Fenomeno hori benetan gertatzen da.</frase>
+<frase id="22" frase_all="17">Dibulgazioan asko erabili da.</frase>
+<frase id="23" frase_all="18">Cecil Adams dibulgatzailea da.</frase>
+<frase id="24" frase_all="18">Cecil Adamsek chicago Reader egunkarian Straigh Dope zutabea idazten du. </frase>
+<frase id="25" frase_all="18">Cecilen hitzetan ideia hori "zientziako testu-liburu errespetagarri batzuetan ere argitaratu izan da”. </frase>
+<frase id="26" frase_all="19">Hala ere, testu teknikoetan ez da horrelakorik agertzen.</frase>
+<frase id="27" frase_all="20">Dibulgazioan ohikoa da ideiak sinplifikatzea.</frase>
+<frase id="28" frase_all="20">Bernoulliren printzipioaren azalpena da adibideetako bat.</frase>
+<frase id="29" frase_all="21">Printzipioa hegan egitearen parte bat da; printzipioa, baina, ez da hegan egitearen giltzarria.</frase>
+<frase id="30" frase_all="22">Daniel Bernoulli XVIII. mendeko matematikari eta ingeniari nederlandar bat izan zen. </frase>
+<frase id="31" frase_all="22">Zientziaren historian ospetsua da.</frase>
+<frase id="32" frase_all="22">Fluidoen dinamikan ikerketak egin zituen.</frase>
+<frase id="33" frase_all="23">Fluido batek, abiadura handiagoan presio gutxiago egiten du gainazal solido baten gainean.</frase>
+<frase id="34" frase_all="23">Hori da Bernoulliren printzipio ezagunena.</frase>
+<frase id="35" frase_all="24">Ez dago erlaziorik hegaldiaren eta Bernoulliren bizitzaren artean.</frase>
+<frase id="36" frase_all="25">XVIII. mendean hegan egiteko modu bakarra globoa zen.</frase>
+<frase id="37" frase_all="25"><Montgolfier anaiek lehen hegaldia Bernoulli hil eta bost hilabetera egin zuten./frase>
+<frase id="38" frase_all="26">Hegazkinaren kontzeptua ez zen existitzen.</frase>
+<frase id="39" frase_all="27">Airea fluido bat da.</frase>
+<frase id="40" frase_all="27">Hegazkinaren hegoak bi gainazal solido handi dira.</frase>
+<frase id="41" frase_all="28">Hegoen forma berezia da.</frase>
+<frase id="42" frase_all="29">Hegazkin gehienetan goialdetik hegoak kurbatuak daude; aldiz, azpialdetik hegoak lauak dira.</frase>
+<frase id="43" frase_all="29">Hegoaren goialdetik eta azpialdetik airea doa; goialdeko aire horrek bide luzeagoa egiten du; aire hori azkarrago mugitzen da.</frase>
+<frase id="44" frase_all="30">Gainera, goiko airea lehenago iristen da hegoaren bukaerara; beheko airea motelago iristen da.</frase>
+<frase id="45" frase_all="31">Hor dator Bernoulli: fluxu horrek presio handiagoa egiten dio hegoari behetik goitik baino.</frase>
+<frase id="46" frase_all="31">Hori dio Bernoulliren printzipioak.</frase>
+<frase id="47" frase_all="32">Eta, presio horren ondorioz, hegazkina airean altxatzen da.</frase>
+<frase id="48" frase_all="33">Oro har, hegaldia horrela azaltzen dute.</frase>
+<frase id="49" frase_all="34">Argudioa zuzena da: hegazkinak goranzko indar bat jasotzen du.</frase>
+<frase id="50" frase_all="34">Hori da hegoen ohiko diseinua.</frase>
+<frase id="51" frase_all="34">Bernoulliren printzipioagatik gertatzen da hori.</frase>
+<frase id="52" frase_all="35">Baina argudio hori ez da nahikoa azken ondoriora iristeko; beraz, ondorioa okerra da: indar hori ez da hegazkinari airean eusteko bezain handia.</frase>
+<frase id="53" frase_all="36">Kalkuluak argiak dira.</frase>
+<frase id="54" frase_all="37">Hegazkinaren abiadurak handitu egiten du Bernoulliren efektua; hegazkin txiki estandar baten pisuari airean eusteko abiadurak 480 km/h baino gehiagokoa izan beharko luke;  Cessna 152 da hegazkin txikia, esaterako. </frase>
+<frase id="55" frase_all="37">Hegazkin txiki horiek nekez iristen dira 100 km/h-ko abiadurara.</frase>
+<frase id="56" frase_all="38">Beste edozein hegazkinekin ere gauza bera gertatzen da: Bernoulliren printzipioak goranzko indarra eragiten du; hegazkinak indarra behar du; indar hori ez da hegazkin-indar horren % 1era iristen.</frase>
+<frase id="57" frase_all="39">Utzi zenbakiak alde batera; Bernoulliren efektua ez da hegan egitearen arrazoia, jakina.</frase>
+<frase id="58" frase_all="40">Batetik, akrobazia-hegazkinen kasua nabarmena da.</frase>
+<frase id="59" frase_all="41">Akrobazia-hegazkinek azpikoz gora ere egiten dute hegan.</frase>
+<frase id="60" frase_all="41">Une horretan hegazkina eta Bernoulliren efektua kontrako aldera zuzenduta daude.</frase>
+<frase id="61" frase_all="42">Goiko hegoen kasuan, efektuak lurrerantz bultzatzen du hegazkina.</frase>
+<frase id="62" frase_all="43">Hego guztiek, baina, ez dute diseinu kurbatu hori.</frase>
+<frase id="63" frase_all="44;45">Gaur egungo hegazkin komertzialen hegoen diseinua plano aerodinamiko superkritikoan oinarritzen da.</frase>
+<frase id="64" frase_all="46">NASAko Richard Whitcomb ingeniariak diseinatu zuen 1960ko hamarkadan; hegazkin hauen diseinua ia laua da goialdetik; hegoek oso kurbadura txikia dute; hegazkin hauetan Bernoulliren printzipioaren efektua ere oso txikia da.</frase>
+<frase id="65" frase_all="47">Historiako lehen hegazkinak dira horren adibide argigarri: 1896ko Samuel Langleyren tripulatu gabeko makinak, Wright anaien Flyer famatuak eta hurrengo urteetan egin ziren hegazkinek kurbatuak zituzten hegoak bi aldeetatik; goitik eta behetik zituzten hegoak kurbatuak.</frase>
+<frase id="66" frase_all="48">Hegazkin hauetan aireak ibilbide bera egiten du bi aldeetatik. </frase>
+<frase id="67" frase_all="48">Bernoulliren efektuak ez du eraginik.</frase>
+<frase id="68" frase_all="49">Paperezko hegazkinetan eta delta-hegaletan gauza bera gertatzen da.</frase>
+<frase id="69" frase_all="50">Airean eusteko indarra beste zerbaitek sortzen du.</frase>
+<frase id="70" frase_all="51">Gakoa Newtonen hirugarren legean datza; Newtonen hirugarren legeak akzio-erreakzio printzipioa aztertzen du: hegazkinak airea beherantz bultzatzen du; aireak gorantz bultzatzen du hegazkina.</frase>
+<frase id="71" frase_all="52">Baina nola gertatzen da hori? Erantzuna beste faktore batean dago: eraso-angeluan.</frase>
+<frase id="72" frase_all="53">Hegan egitean, hegoaren sekzioa ez da egoten horizontal; hegoak eraso-angelu bat izaten du; angelu horrek aireari beherantz eragiten dio; airea hegoaren atzetik irteten da.</frase>
+<frase id="73" frase_all="54">Indar hori erraz sentitu daiteke.</frase>
+<frase id="74" frase_all="55">Discovery Channelek Understanding Flight dokumentala produzitu zuen.</frase>
+<frase id="75" frase_all="55">Dokumentalean John Travolta aktoreak azaltzen zuen nola sentitu indar hori.</frase>
+<frase id="76" frase_all="55">John Travolta pilotua da: "Autoa gidatzen ari zarenean zabaldu leihoa; segurua bada, luzatu besoa kanpoaldean; 50 km/h-an joan behar duzu gutxienez".</frase>
+<frase id="77" frase_all="56">Besoa biratu.</frase>
+<frase id="78" frase_all="56">Eskua goranzko angelu batean jarri.</frase>
+<frase id="79" frase_all="56">Goranzko indarra nabarituko du eskuak.</frase>
+<frase id="80" frase_all="57">Dokumental berean, Burt Rutanek hitz egiten du; Burt Rutan hegazkin diseinatzailea da.</frase>
+<frase id="81" frase_all="57">Burt Rutanek zera dio: "Behatzekin biribiltzen baduzu eskua, efektua areagotu egiten da.</frase>
+<frase id="82" frase_all="58">Hegaztien lumek ere diseinu kurbatu hori dute.</frase>
+<frase id="83" frase_all="59">Zenbat eta aire gehiago bultzatu beherantz, orduan eta goranzko indar handiagoa jasotzen du hegazkinak.</frase>
+<frase id="84" frase_all="60">Zenbat eta azkarrago joan, orduan eta aire gehiagori egiten dio hegazkinak bultza beherantz.</frase>
+<frase id="85" frase_all="61">Hegazkinak euste-indar bera izateko poliki mugitu behar du.</frase>
+<frase id="86" frase_all="61">Horretarako, eraso-angeluak handiagoa izan behar du, muga bateraino.</frase>
+<frase id="87" frase_all="62">Angelua 18-20 gradukoa denean, hegoaren inguruko aireak utzi egiten dio geruzatan mugitzeari.</frase>
+<frase id="88" frase_all="62">Zurrunbiloak sortzen hasten dira.</frase>
+<frase id="89" frase_all="63">Euste-indarra desagertu egiten da.</frase>
+<frase id="90" frase_all="63">Orduan, hegazkina erori egiten da.</frase>
+<frase id="91" frase_all="64">Horregatik, hegaldia eraso-angelu txikietan oinarrituta dago; normalean, 10 gradu bitartekoa izaten da.</frase>
+<frase id="92" frase_all="65">Angelu horrek paperezko hegazkinaren hegaldia ere azaltzen du; hain zuzen, hegazkinak planeatzeko angelu horren inguruan iraun beharko du.</frase>
+<frase id="93" frase_all="66">Eraso-angeluak eta beste faktore askok hartzen dute parte hegazkinaren airea beherantz bultzatzeko ahalmenean.</frase>
+<frase id="94" frase_all="67">Aireari behera eragiten honako hauek hartzen dute parte: hegoen luzerak ; hegoen azalerak; hegazkinaren altueraren araberako aire-dentsitateak;  haizeak eta abarrek.</frase>
+<frase id="95" frase_all="67">Baina eraso-angelua da gakoa.</frase>
+<frase id="96" frase_all="67">Eraso-angeluak erabateko garrantzia du pilotuentzat; neurri handi batean, hegazkin bat pilotatzea eraso-angelua egokitzearen artea da.</frase>
+<frase id="97" frase_all="68">Angelu-jokoan agertzen da berriz Bernoulliren printzipioa.</frase>
+<frase id="98" frase_all="69">Angeluan aldaketak egiten dira; aldaketek azkartu eta moteldu egiten dituzte hegoaren gaineko eta azpiko airearen bi fluxuak.</frase>
+<frase id="99" frase_all="70">Bi fluxuen presioa ezberdina da.</frase>
+<frase id="100" frase_all="70">Presio ezberdinak goranzko bultzada sortzen du.</frase>
+<frase id="101" frase_all="70">Bultzada horrek ere laguntzen du.</frase>
+<frase id="102" frase_all="71">Bernoulli ez dago erabat baztertuta hegaldiaren azalpenean.</frase>
+<frase id="103" frase_all="72">Ez dago erabat baztertuta; ez da, baina, hegan egitearen arrazoi nagusia.</frase>
+<frase id="104" frase_all="73">Hegoaren forma ez da hegazkin bat hegalari bihurtzeko funtsezko faktorea.</frase>
+<frase id="105" frase_all="74">Hala ere, badu garrantzia.</frase>
+<frase id="106" frase_all="75">Bestela, zergatik egiten dituzte hego gehienak forma berekoak? Arrazoi bat baino gehiago dago.</frase>
+<frase id="107" frase_all="76">Alde batetik, hegoen ohiko itxura oso aerodinamikoa da.</frase>
+<frase id="108" frase_all="77">Hegazkinaren diseinua ez du bakarrik airean eusten dion indarrak bereizten; beste hiru indar garrantzitsu daude: pisua bera, aurreranzko propultsioa eta airearen erresistentzia.</frase>
+<frase id="109" frase_all="78">Azken indar hori mugimenduaren kontrako norabidean doa.</frase>
+<frase id="110" frase_all="78">Horri aurre egiteko, aukera ona da ohiko hegoaren profila erabiltzea.</frase>
+<frase id="111" frase_all="79">Bestetik, hegoaren profilaren arabera aldatzen da eraso-angeluaren muga</frase>
+<frase id="112" frase_all="80">Gainetik kurbatuak diren hegoek lauek baino angelu handiagoetan funtzionatzen dute.</frase>
+<frase id="113" frase_all="81">Beraz, hegoaren formak garrantzi handia du; izan ere, hegoaren formak inguruan duen airearen jarioan asko eragiten du.</frase>
+<frase id="114" frase_all="81">Hegoaren forma, ordea, ez da hegan egitearen lehen arrazoia.</frase>
+<frase id="115" frase_all="82">Hegaldia oso baxua denean zoruak hegazkinaren inguruko airearen jokabidea alda dezake.</frase>
+<frase id="116" frase_all="83">Presio-diferentzia oso handia gertatzen da hegazkinaren gaineko eta azpiko aire-fluxuen artean.</frase>
+<frase id="117" frase_all="84">Zorua oso gertu dagoenean, hegazkinaren azpiko airea konprimituta dago.</frase>
+<frase id="118" frase_all="84">Aire konprimitu horrek presio handiko poltsa bat sortzen du.</frase>
+<frase id="119" frase_all="85">Aldea oso handia da; hegazkinak goranzko indar handia jasotzen du.</frase>
+<frase id="120" frase_all="86">Zoru-efektua deritzo.</frase>
+<frase id="121" frase_all="87">Hori ere ez da Bernoulliren ekarpena; hori bada presio-diferentziaren ondorioa.</frase>
+<frase id="122" frase_all="88">Eta berriz ere, airea beherantz bultzatzearen ondorioa da.</frase>
+<frase id="123" frase_all="89">Azken batean, hori da hegan egitearen sekretua.</frase>
+</doc>

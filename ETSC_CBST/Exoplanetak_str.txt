@@ -1,0 +1,151 @@
+<doc id="Exoplanetak_elhAldizk38_o.txt">
+<frase id="1" frase_all="1">Exoplanetak.</frase>
+<frase id="2" frase_all="2;3">Lurraren parekoen bila espazioan</frase>
+<frase id="3" frase_all="4">Azkeneko 15 urteetan 600 planeta identifikatu ditugu eguzki-sistemaz kanpo.</frase>
+<frase id="4" frase_all="5">Orain dela 25 urte, berriz, eguzki-sistemako planetak baino ez ziren ezagutzen. </frase>
+<frase id="5" frase_all="6">1992an aurkitu zen lehengo exoplaneta.</frase>
+<frase id="6" frase_all="7">Orain, identifikatu ez ezik, adituak dagoeneko hasiak dira horietako batzuk karakterizatzen; hau da, zer izaera eta ezaugarri dituzten bereizten.</frase>
+<frase id="7" frase_all="8;9">Eguzki-sistemaz kanpoko planetei esaten zaie exoplaneta, eta Kanarietako Astrofisika Institutuko Enric Pallé astrofisikariak dioen bezala, "une honetan, egunero-egunero aurkitzen dira exoplaneta berriak; ez nintzateke harrituko hemendik bost urtera 20-25 mila exoplaneta ezagutuko bagenitu".</frase>
+<frase id="8" frase_all="10">Ezagutzen diren, eta aurrerantzean ezagutuko diren, exoplaneta gehienak Jupiter eta Saturno bezalako gasezko erraldoiak dira, "besterik ez bada, errazago detektatzen direlako handiagoak --azaldu du Pallék--; hain zuzen, ezagutuko ditugun planeten bi heren, gutxi gorabehera, horrelako erraldoiak izango dira".</frase>
+<frase id="9" frase_all="11">Rafael Bachiller Astronomia Behatoki Nazionaleko zuzendariaren ustez, "ez da harritzekoa planeta handienak izatea identifikatzen diren lehenengoak.</frase>
+<frase id="10" frase_all="12">Are gehiago, kontuan izanda ez direla zuzenean behatuta identifikatzen, bakoitzak bere izarrari eragiten dion perturbazioen bidez baizik".</frase>
+<frase id="11" frase_all="13">Hau da, izar jakin bati begiratzean, izarraren orbitan edo argitasunean gorabeherak neurtzen baldin badira, inguruan planetaren bat duela interpretatzen da.</frase>
+<frase id="12" frase_all="14">Izan ere, izar batek inguruan planeta bat baldin badu, haren grabitate-indarrak izarra erakar dezake, eta ohiko orbitatik pixka bat desbideratu.</frase>
+<frase id="13" frase_all="15">Era berean, planeta bat bere izarraren paretik pasatzen baldin bada, izarrak argitasun txikixeagoa emango du, planetak eragindako eklipse txikiaren eraginez (iragate esaten zaie astronomian eklipseei).</frase>
+<frase id="14" frase_all="16;17">Horrenbestez, zenbat eta handiagoa izan planeta bat, eta zenbat eta hurbilago egon bere izarretik, nabarmenagoa izango da izarrean duen eragina.</frase>
+<frase id="15" frase_all="18">2009an, Kepler teleskopioa jarri zuen NASAk orbitan, eta exoplanetak bilatzea beste lanik ez zion esleitu.</frase>
+<frase id="16" frase_all="19">Iragateei erreparatzen die Keplerrek, eta denbora guztian Lyra eta Cygnus konstelazioak dauden eremuari begira dago.</frase>
+<frase id="17" frase_all="20">Hala, etengabe 100.000 izar baino gehiago aztertzen ditu, baten batean argitasun-gorabeherarik hautematen duen.</frase>
+<frase id="18" frase_all="21">Ia metro bateko fotometroa du teleskopioak, eta, horri esker, gai da 1/10.000-ko bereizmenarekin argitasun-aldaketei antzemateko.</frase>
+<frase id="19" frase_all="22">Konparazio baterako, gai izango litzateke 10.000 bonbillek ematen duten argian argitasun-beherakadari antzemateko horietako bat itzaliko balitz.</frase>
+<frase id="20" frase_all="23;24">Kepler ez da izan, dena den, eguzki-sistemaz kanpo planetak aurkitu dituen misio bakarra.</frase>
+<frase id="21" frase_all="25">Beste misio eta proiektu batzuen bidez aurkitu izan dira orain arte ezagutzen ziren exoplanetak, hala nola AFOE, CoRoT, AXA eta Spitzer proiektuen bidez.</frase>
+<frase id="22" frase_all="26">Keplerrek ez bezala, ordea, beste zenbait helburutarako neurketak eta behaketak ere egiten dituzte haietan.</frase>
+<frase id="23" frase_all="27">Izan ere, inbertsio handiak egin behar izan dituzte, eta ahalmen handiko gailuak ibiltzen dituzte misio horietan.</frase>
+<frase id="24" frase_all="28;29">Horrenbestez, "ez da bideragarria milioika euroko kostua izan duen zortzi metroko teleskopio bat, adibidez, espazioko eremu txiki batera bakarrik begira izatea", argitu du Pallék.</frase>
+<frase id="25" frase_all="30">Haren ustez, beraz, Kepler da, duen dedikazioarengatik, "exoplanetei buruz informazio gehien ematen ari den misioa".</frase>
+<frase id="26" frase_all="31">Hain zuzen, 1.325 planetagai aurkitu zituen lanean egon zen lehenengo lauhilekoan.</frase>
+<frase id="27" frase_all="32;33">Oraingoz, planetagaiak besterik ez dira gehienak, ezin izan baitute berretsi benetan planetaren batek edo beste fenomenoren batek eragin duen Keplerrek neurtutako argitasun-apaltzea.</frase>
+<frase id="28" frase_all="34">Hala ere, adituek aurreikusten dute planetagaien %90, gutxi gorabehera, benetako planetak izango direla.</frase>
+<frase id="29" frase_all="35;36">Keplerren helburua eremu horretako planeta guztiak bilatzea bada ere, NASAk erronka berezi bat du proiektu horrekin: Lurraren antzeko planetak bilatu nahi ditu bereziki, eta, ahal dela, izarretik distantzia egokira daudenak bizidunak izateko (alegia, urik balute, ur hori egoera likidoan izan dezaketenak).</frase>
+<frase id="30" frase_all="37">Hain zuzen ere, adituek, oro har, esaten dute exoplanetei lotuta egiten diren ikerketa guztien azkeneko helburua dela metodo zientifikoen bidez argitzea unibertsoan bakarrik ote gauden edo ez.</frase>
+<frase id="31" frase_all="38">Eta, Enric Palléren ustez, "gurea izango da galdera horri erantzuteko tresnak izango dituen lehenengo belaunaldia".</frase>
+<frase id="32" frase_all="39">Horrekin batera, gure planeta eta eguzki-sistema gainerakoekin alderatu nahi dituzte, eta ikusi nahi dute ea horrelakoak fenomeno bakanak diren edo oso arruntak diren unibertsoan.</frase>
+<frase id="33" frase_all="40">Kepler misioa martxan jarri zutenean, ikertzaileek pentsatu zuten Lurraren antzeko planetak aurkitzeko modurik onena Eguzkiaren antzeko izarrei begiratzea izango zela.</frase>
+<frase id="34" frase_all="41">Alabaina, "eguzki-sistemaz kanpoko planeten azterketan izan dugun ezusteko handienetako bat izan da ikustea ia edozein motatako izarren inguruan egon daitezkeela planetak, izarrak gazteak edo zaharrak izan, txikiak edo handiak, argitasun handikoak edo txikikoak...", argitu du Bachiller astronomoak.</frase>
+<frase id="35" frase_all="42">Ezustekoak ez dituzte izan planetak dituzten izar-motetan bakarrik; dagoeneko zenbait planeta-sistema aurkitu dituzte, hau da, inguruan planeta bat baino gehiago dituzten izarrak, eta horiek ere gure eguzki-sistema ez bezalakoak direla ikusi dute adituek: "Gure sisteman zortzi planeta ditugu; lau arrokazkoak dira, eta izarretik hurbil daude, eta beste lau izarretik urrun daude, eta, horietako bi, gasezko erraldoiak dira.</frase>
+<frase id="36" frase_all="43">Bada, Keplerrek aurkitutako sistemetan denetarik dago: batzuetan, gasezko erraldoiak hurbilago daude izarretik; beste batzuetan, planeta guztiak izarraren inguruan pilatuta daude; beste batzuetan, gureak baino sakabanatuago; eta abar", dio Pallék.</frase>
+<frase id="37" frase_all="44">Planetak aurkitu izanak, gainera, planeten eraketari buruzko teoriak berrikustea ekarri du zenbaitetan.</frase>
+<frase id="38" frase_all="45">Adibide bat eman du Pallék: "Aurkitu diren arte, uste zen ez zela posible Jupiterren neurriko planetak beren izarretik hurbil egotea.</frase>
+<frase id="39" frase_all="46">Bada, aurkitu dute gasezko planeta erraldoi bat bere izarretik hurbil, Eguzkitik Merkuriora dagoen distantziara baino gutxiagora.</frase>
+<frase id="40" frase_all="47">Orduan, berrikusi egin behar izan zituzten planeten eraketari buruzko teoriak, eta orain beste teoria bat dago indarrean, migrazioena. </frase>
+<frase id="41" frase_all="48">Uste denez, gasezko erraldoiak, berez, urrunago sortu ziren, baina eboluzioan izandako perturbazioen eraginez izarrerantz hurbildu dira.</frase>
+<frase id="42" frase_all="49">Bidean arrokazko planeta txikiagoren bat aurkitu izan balu, bereganatu egingo zuen, eta, hortaz, uste da izar batetik hurbil gasezko planeta erraldoi bat baldin badago (hot Jupiter esaten zaie), ez dela egongo arrokazko planetarik bizia egon daitekeen eremuan".</frase>
+<frase id="43" frase_all="50">Hala ere, Palléren ustez, "ezustekoak aurkitzeko espazio asko dago oraindik; hasi besterik ez da egin exoplaneten esplorazioa.</frase>
+<frase id="44" frase_all="51">Orain ikusten ari garena izebergaren muturra besterik ez da".</frase>
+<frase id="45" frase_all="52">Planetak identifikatzea ez da nahikoa astronomo eta astrofisikarientzat.</frase>
+<frase id="46" frase_all="53">Planeta horiek nolakoak diren jakitea funtsezkotzat jotzen dute.</frase>
+<frase id="47" frase_all="54">Eta, horretarako, ezinbestekoa da planetei zuzenean begiratzea.</frase>
+<frase id="48" frase_all="55">Planeten karakterizazio horretan sartzen da, orobat, bizidunik ote duten edo ez argitzea.</frase>
+<frase id="49" frase_all="56">"Planeten atmosferei begiratzen diegu horretarako", dio Pallék.</frase>
+<frase id="50" frase_all="57">Hain zuzen, planeta jakin batean bizidunik baldin badago, atmosferak bizi horren aztarnak izango ditu, eta, hortaz, atmosferen konposizioa ezagutzea bizidunak bilatzeko modutzat jotzen dute adituek.</frase>
+<frase id="51" frase_all="58">Teleskopioak guregandik urrun dauden izarretara zuzentzean, ordea, izarren argitasunak itsutu egiten ditu, eta ez dira gai inguruko planetak ikusteko.</frase>
+<frase id="52" frase_all="59">Bi modu dituzte zientzialariek arazo hori konpontzeko.</frase>
+<frase id="53" frase_all="59">Bata, metodo esperimentalen bidez izarraren argia estaltzea, hala planetek islatzen duten argiari antzeman ahal izango baitzaio; bestea, berriz, planeta izarraren aurretik iragan arte itxarotea, eta orduan ikustea planetaren atmosfera zeharkatzen duen argia.</frase>
+<frase id="54" frase_all="60">Planeta bat arrokazkoa bada, planeta opakua ikusiko da izarraren aurretik pasatzean; baina haren atmosferak izarraren argiari pasatzen utziko dio.</frase>
+<frase id="55" frase_all="61">Atmosferaren gasek izarraren argiaren zati bat xurgatu egiten dutenez, pasatzen uzten duten argiaren espektroa aztertuta jakin daiteke zer konposizio duen.</frase>
+<frase id="56" frase_all="62">"Hala ikus dezakegu, adibidez, atmosferetan sodiorik, potasiorik, metanorik eta abarrik dagoen", deskribatu du Pallék.</frase>
+<frase id="57" frase_all="63">Atmosferen azterketa horiek, ordea, ezin dira orbitan dauden misioen bitartez egin.</frase>
+<frase id="58" frase_all="64">Pallék azaldu duenez, "Lurretik bakarrik egin daitezke, espektrografoak behar direlako horretarako, eta, une honetan, espazioan, fotoi-kontagailuak besterik ez daudelako.</frase>
+<frase id="59" frase_all="65;66">Aurrerago egongo dira, eta, orduan, emaitza hobeak lortuko ditugu espaziotik egindako behaketetatik.</frase>
+<frase id="60" frase_all="67">Azken batean, lortu nahi diren helburuen eta horretarako egiten den inbertsioaren arteko erlazioak zehazten eta mugatzen du zer emaitza lor daitezkeen".</frase>
+<frase id="61" frase_all="68">Hala, planeta asko aurkitu nahi direnean, "espaziora joatea da egokiena, askoz doitasun handiagoz hauteman baitaitezke argitasun-aldaketak, ezabatu egiten baita atmosferak eragin dezakeen distortsioa --dio Pallék--.</frase>
+<frase id="62" frase_all="69">Alabaina, helburua planetak karakterizatzea baldin bada, guregandik oso hurbil dauden izarren inguruko planetetara jotzen dugu.</frase>
+<frase id="63" frase_all="70">Hala, argi asko iristen zaigu haietatik, eta, horrenbestez, errazago azter ditzakegu atmosferak".</frase>
+<frase id="64" frase_all="71">Aurrerapenak zer abiaduran egiten ari diren kontuan hartuta, Pallék uste du aurrerapen handiak egongo direla etorkizun hurbilean exoplanetei lotuta: "2-5 urteko tartean, bizidunik izan dezakeen planeta bat, gutxienez, aurkituko dela aurreikusten dut.</frase>
+<frase id="65" frase_all="72">Hau da, arrokazkoa izateko nahikoa txikia dena, eta izarretik distantzia egokira egongo dena.</frase>
+<frase id="66" frase_all="73;74">Gero, begiratzean, agian altzairuzko edo diamantezko bola bat izan daiteke, edo, demagun, Marte bezalako planeta bat".</frase>
+<frase id="67" frase_all="75">Azkeneko urrats hori, tamaina horretako planetak karakterizatzea, alegia, "bizpahiru hamarkadatan emateko gai izango gara.</frase>
+<frase id="68" frase_all="76">Hori da, nire ustez, titular nagusia: Bizpahiru hamarkadatan gai izango gara gure inguru hurbilean bizia aurkitzeko.</frase>
+<frase id="69" frase_all="77">Betiere, noski, bizidunik baldin badago".</frase>
+</doc>
+
+<doc id="Exoplanetak_str_s.txt">
+<frase id="1" frase_all="1">Exoplanetak.</frase>
+<frase id="2" frase_all="2">Lurraren pareko planeten bila ari dira espazioan</frase>
+<frase id="3" frase_all="2">Exoplanetak eguzki sistemaz kanpoko planetak dira.</frase>
+<frase id="4" frase_all="3">Azkeneko 15 urteetan 600 planeta identifikatu ditugu eguzki-sistemaz kanpo.</frase>
+<frase id="5" frase_all="4">Orain dela 25 urte, berriz, eguzki-sistemako planetak bakarrik ezagutzen ziren.</frase>
+<frase id="6" frase_all="5">1992an aurkitu zen lehengo exoplaneta.</frase>
+<frase id="7" frase_all="6">Planetak identifikatu ziren lehenengo; adituak dagoeneko hasi dira planeta horietako batzuk karakterizatzen; hau da, planeten izaera eta ezaugarriak bereizten hasi dira.</frase>
+<frase id="8" frase_all="7">Eguzki-sistemaz kanpoko planetei esaten zaie exoplaneta.</frase>
+<frase id="9" frase_all="7">Enric Pallé Kanarietako Astrofisika Institutuko astrofisikaria da; Pallék dio: egunero-egunero aurkitzen dira exoplaneta berriak; ez da harritzekoa hemendik bost urtera 20-25 mila exoplaneta ezagutzea.</frase>
+<frase id="10" frase_all="8">Exoplaneta ezagun gehienak Jupiter eta Saturno bezalako gasezko erraldoiak dira;  planeta berriak ere horrelakoak izango dira; "izan ere, errazago detektatzen dira planeta handiagoak” --azaldu du Pallék-; hain zuzen, planeta berrien bi heren, gutxi gorabehera, horrelako erraldoiak izango dira".</frase>
+<frase id="11" frase_all="9">Rafael Bachiller Astronomia Behatoki Nazionaleko zuzendaria da; Rafaelen ustez, "ez da harritzekoa planeta handienak izatea identifikatzen lehenengoak.</frase>
+<frase id="12" frase_all="10">Planeta horiek ez dira zuzenean behatuta identifikatzen; planeta bakoitzak bere izarrari  perturbazioak eragiten dizkio; perturbazio horien bidez identifikatzen dira planetak".</frase>
+<frase id="13" frase_all="11">Hau da interpretazioa: izar jakin bati begiratzen zaio; izarraren orbitan edo argitasunean gorabeherak neurtzen dira; orduan, argitasunaren arabera, inguruan planetaren bat du.</frase>
+<frase id="14" frase_all="12">Izan ere, izar batek inguruan planeta bat izan dezake; orduan, planetaren grabitate-indarrak izarra erakar dezake; ondorioz, planetak izarra ohiko orbitatik pixka bat desbideratzen du.</frase>
+<frase id="15" frase_all="13">Era berean, planeta bat bere izarraren paretik pasatzen da; orduan, izarrak argitasun txikixeagoa emango du; izan ere, planetak eklipse txiki bat eragiten dio; astronomian eklipseei iragate esaten zaie.</frase>
+<frase id="16" frase_all="14">Horrenbestez, planeta handiagoak eragin nabarmenagoa izango du izarrean.</frase>
+<frase id="17" frase_all="14">Zenbat eta hurbilago egon planeta bere izarretik, eragina nabarmenagoa izango da izarrean.</frase>
+<frase id="18" frase_all="15">2009an, Kepler teleskopioa jarri zuen NASAk orbitan; teleskopioaren lan guztia exoplanetak bilatzea zen.</frase>
+<frase id="19" frase_all="16">Keplerrek iragateei erreparatzen die; denbora guztian Lyra eta Cygnus konstelazioen eremuari begira dago.</frase>
+<frase id="20" frase_all="17">Hala, etengabe 100.000 izar baino gehiago aztertzen ditu; helburua argitasun-gorabeherak hautematea da.</frase>
+<frase id="21" frase_all="18">Ia metro bateko fotometroa du teleskopioak; Fotometro horri esker, gai da 1/10.000-ko bereizmenarekin argitasun-aldaketei antzemateko.</frase>
+<frase id="22" frase_all="19">Konparazio baterako, irudikatu 10.000 bonbillek ematen duten argia; bonbiletako bat itzali da; ondorioz, argitasun beherakada bat izan da.</frase>
+<frase id="23" frase_all="20">Kepler teleskopioa gai da argitasun-beherakada horri antzemateko.</frase>
+<frase id="24" frase_all="20">Ez da Kepler misioa eguzki-sistemaz kanpo planetak aurkitzen bakarra.</frase>
+<frase id="25" frase_all="21">Beste misio eta proiektu batzuen bidez aurkitu izan dira orain arteko exoplanetak; hala nola AFOE, CoRoT, AXA eta Spitzer proiektuen bidez aurkitu izan dira.</frase>
+<frase id="26" frase_all="22">Misio horiek beste zenbait helburutarako neurketak eta behaketak ere egiten dituzte; Keplerrek ez ditu egiten, ordea.</frase>
+<frase id="27" frase_all="23">Izan ere, inbertsio handiak egin behar izan dituzte; ahalmen handiko gailuak ibiltzen dituzte misio horietan.</frase>
+<frase id="28" frase_all="24">Horrenbestez, "ez da bideragarria  zortzi metroko teleskopio bat, adibidez, espazioko eremu txiki batera bakarrik begira izatea", argitu du Pallék.</frase>
+<frase id="29" frase_all="24">Teleskopio horiek milioika euroko kostua dute.</frase>
+<frase id="30" frase_all="25">Palléren ustez, beraz, Kepler misioak ematen du exoplanetei buruz informazio gehien; izan ere, misio honek bete-beteko dedikazioa du.</frase>
+<frase id="31" frase_all="26">Hain zuzen, 1.325 planetagai aurkitu zituen laneko lehenengo lauhilekoan.</frase>
+<frase id="32" frase_all="27">Oraingoz, planetagaiak besterik ez dira gehienak; Keplerrek argitasun-apaltzea neurtu zuen.</frase>
+<frase id="33" frase_all="27">Zerk eragin du argitasun-apaltzea? Planeta batek eragin du argitasun-apaltzea? Beste fenómeno batek eragin du argitasun-apaltzea? Adituek ezin izan dute berretsi.</frase>
+<frase id="34" frase_all="28">Hala ere, planetagaien %90, gutxi gorabehera, benetako planetak izango dira; hala aurreikusi dute adituek.</frase>
+<frase id="35" frase_all="29">Keplerren helburua eremu horretako planeta guztiak bilatzea da; hala ere, NASAk erronka berezi bat du proiektu horrekin: Lurraren antzeko planetak bilatu nahi ditu bereziki; planeta batzuk izarretik distantzia egokira daude bizidunak izateko; planeta horiek bilatu nahi ditu NASAk.</frase>
+<frase id="36" frase_all="29">Alegia, planeta batzuek ura dute; ur horrek egoera likidoan egon behar du.</frase>
+<frase id="37" frase_all="30">Hain zuzen ere, adituek, oro har, zera esaten dute: unibertsoan bakarrik gaude edo ez? hori da exoplanetei buruzko ikerketa guztien azkeneko helburua; hori metodo zientifiko bidez argitu nahi dute.</frase>
+<frase id="38" frase_all="31">Enric Palléren ustez, "gure belaunaldiak galdera horri erantzuteko tresnak izango ditu”; gure belaunaldia izango da lehena".</frase>
+<frase id="39" frase_all="32">Gainera, gure planeta eta eguzki-sistema gainerakoekin alderatu nahi dituzte; fenomeno horiek bakanak edo arruntak dira unibertsoan? hori ikusi nahi dute.</frase>
+<frase id="40" frase_all="33">Kepler misioa martxan jarri zuten; orduan, “Lurraren antzeko planetak aurkitzeko modurik onena Eguzkiaren antzeko izarrei begiratzea izango da” pentsatu zuten ikertzaileek.</frase>
+<frase id="41" frase_all="34">Bachiller astronomoak argitu du: Eguzki-sistemaz kanpoko planeten azterketan ezusteko handiak izan ditugu; hala ere, ezusteko handiena hau izan da: ia edozein motatako izarren inguruan egon daitezke planetak; berdin dio izarrak gazteak edo zaharrak izatea; txikiak edo handiak izatea; argitasun handikoak edo txikikoak izatea..."</frase>
+<frase id="42" frase_all="35">Ezustekoak ez dituzte izan planetak dituzten izar-motetan bakarrik; dagoeneko zenbait planeta-sistema aurkitu dituzte; hau da, izar batzuek inguruan planeta bat baino gehiago dituzte; planeta horiek ere gure eguzki-sistema ez bezalakoak dira, adituen ustez: "Gure sisteman zortzi planeta ditugu; lau planeta arrokazkoak dira; planeta horiek izarretik hurbil daude; beste lau planeta izarretik urrun daude; planeta horietako bi, gasezko planeta erraldoiak dira.</frase>
+<frase id="43" frase_all="36">Bada, Keplerrek aurkitutako sistemetan denetarik dago: batzuetan, gasezko planeta erraldoiak hurbilago daude izarretik; beste batzuetan, planeta guztiak izarraren inguruan pilatzen dira; beste batzuetan, gure planetak baino sakabanatuago daude; eta abar"; hori dio Pallék.</frase>
+<frase id="44" frase_all="37">Planetak aurkitu dira; honenbestez, planeten eraketari buruzko teoriak berrikustea ekarri du zenbaitetan.</frase>
+<frase id="45" frase_all="38">Adibide bat eman du Pallék: "Jupiterren neurriko planetak beren izarretik hurbil egotea ez da posible”; hori uste zen; baina aurkitu dira.</frase>
+<frase id="46" frase_all="39">Hau da, gasezko planeta erraldoi bat bere izarretik hurbil aurkitu dute; planeta Eguzkitik Merkuriora dagoen distantziara baino gutxiagora dago.</frase>
+<frase id="47" frase_all="40">Orduan, berrikusi egin behar izan zituzten planeten eraketari buruzko teoriak; orain beste teoria bat dago indarrean; teoria hori migrazioen teoría da.</frase>
+<frase id="48" frase_all="41">Ustez, gasezko planeta erraldoiak, berez, urrunago sortu ziren; baina eboluzioan perturbazioak izan zituzten; perturbazio horien eraginez izarrerantz hurbildu dira.</frase>
+<frase id="49" frase_all="42">Bidean arrokazko planeta txikiagoren bat aurki dezake; orduan, planetak bereganatu egingo du; hortaz, izar batetik hurbil gasezko planeta erraldoi bat egon daiteke; planeta horiei hot Jupiter esaten zaie; orduan, ez da egongo arrokazko planetarik biziaren eremuan".</frase>
+<frase id="50" frase_all="43">Hala ere, Palléren ustez, "ezustekoak aurkitzeko espazio asko dago oraindik; hasi besterik ez da egin exoplaneten esplorazioa.</frase>
+<frase id="51" frase_all="44"> Izebergaren muturra besterik ez dugu ikusten orain".</frase>
+<frase id="52" frase_all="45">Planetak identifikatzea ez da nahikoa astronomo eta astrofisikarientzat.</frase>
+<frase id="53" frase_all="46">Planeta horiek nolakoak dira? hori jakin nahi dute; hori jakitea funtsezkoa da.</frase>
+<frase id="54" frase_all="47">Horretarako, planetei zuzenean begiratu behar zaie.</frase> 
+<frase id="55" frase_all="48">Planetek ba ote dute bizidunik? Hori argitzea planeten karakterizazio horretan sartzen da.</frase>
+<frase id="56" frase_all="49">"Planeten atmosferei begiratzen diegu hori jakiteko", dio Pallék.</frase>
+<frase id="57" frase_all="50">Hain zuzen, planeta jakin batean bizidunik egotea, atmosferak bizi horren aztarnak izatea dakar; hortaz, atmosferen konposizioa ezagutzea bizidunak bilatzeko modua da; hori uste dute adituek.</frase>
+<frase id="58" frase_all="51">Teleskopioak urrutiko izarretara zuzentzean, ordea, izarren argitasunak itsutu egiten ditu; orduan, ezin dituzte inguruko planetak ikusi.</frase>
+<frase id="59" frase_all="52;53">Bi modu dituzte zientzialariek arazo hori konpontzeko: a) izarraren argia estaltzea; estaldura metodo esperimentalen bidez egiten da; horrela planeten argia soilik islatuko da; planeten argiari antzeman ahal izango zaio; b) planeta izarraren aurretik iragan arte itxaron; orduan argiak planetaren atmosfera zeharkatuko du.</frase>
+<frase id="60" frase_all="54">Deskribapen hau egin du Pallék: Planeta bat arrokazkoa da; orduan, planeta opakua ikusiko da izarraren aurretik pasatzean; baina haren atmosferak izarraren argiari pasatzen utziko dio.</frase>
+<frase id="61" frase_all="55">Atmosferaren gasek izarraren argiaren zati bat xurgatu egiten dute; argiaren zati bat pasatzen uzten dute; orduan, argi horren espektroa aztertu behar da; horrela jakin daiteke atmosferaren konposizioa.</frase>
+<frase id="62" frase_all="56">Atmosferek sodioa, potasioa, metanoa eta abar izan dezakete.</frase>
+<frase id="63" frase_all="57">Misioak orbitan daudenean, ordea, ezin dira atmosferen azterketak misio horien bidez egin.</frase>
+<frase id="64" frase_all="58">Pallék azaldu duenez, "Lurretik bakarrik egin daitezke; izan ere, espektrografoak behar dira horretarako; une honetan, espazioan, fotoi-kontagailuak besterik ez daude.</frase>
+<frase id="65" frase_all="59">Aurrerago egongo dira espektrografoak; orduan, espaziotik egingo ditugu behaketak; espazioko behaketa horietatik emaitza hobeak lortuko ditugu.</frase>
+<frase id="66" frase_all="59">Espazioko behaketarako inbertsioa egin behar da.</frase>
+<frase id="67" frase_all="60">Azken batean, helburuak eta inbertsioa lotuta daude; helburuen eta inbertsioaren arteko erlazioak zehazten eta mugatzen du zer emaitza lortu".</frase>
+<frase id="68" frase_all="61">Hala, batzuetan helburua planeta asko aurkitzea da; orduan espaziora joatea da egokiena; askoz doitasun handiagoz hauteman daitezke argitasun-aldaketak; atmosferak distortsioa eragin dezake; distortsio hori ezabatu egiten da --dio Pallék--.</frase>
+<frase id="69" frase_all="62">Alabaina, beste batzuetan helburua planetak karakterizatzea da; orduan, izarren inguruko planetetara jotzen dugu; izar horiek guregandik oso hurbil egongo dira.</frase>
+<frase id="70" frase_all="63">Hala, argi asko iristen zaigu haietatik; horrenbestez, errazago azter ditzakegu atmosferak".</frase>
+<frase id="71" frase_all="64">Aurrerapenak abiadura handiz egiten ari dira; horiek horrela, aurrerapen handiak egongo dira etorkizun hurbilean exoplanetei lotuta: "2-5 urteko tartean, planeta bat, gutxienez, aurkituko da; planeta horrek bizidunak izan ditzake.</frase>
+<frase id="72" frase_all="65">Planeta hori arrokazkoa izateko nahikoa txikia izango da; planeta izarretik distantzia egokira egongo da.</frase>
+<frase id="73" frase_all="66">Gero, begiratzean, agian altzairuzko edo diamantezko bola bat izan daiteke; edo, Marte bezalako planeta bat izan daiteke".</frase>
+<frase id="74" frase_all="66">Hau uste du Pallék.</frase>
+<frase id="75" frase_all="67">Bizpahiru hamarkadatan tamaina horretako planetak karakterizatu ahal izango ditugu.</frase>
+<frase id="76" frase_all="68">Hori da, nire ustez, titular nagusia: Bizpahiru hamarkadatan gure inguru hurbilean bizia aurki dezakegu.</frase>
+<frase id="77" frase_all="69">Horretarako, noski, bizia egon behar da".</frase>
+</doc>

@@ -1,0 +1,598 @@
+T1	INSERT 82 87	hegan
+#1	AnnotatorNotes T1	Verb_AUX
+T2	SOST_IMP-EXP 140 150	bultzatuta
+#2	AnnotatorNotes T2	NonFiniteModal
+T3	INSERT 149 150	a
+#3	AnnotatorNotes T3	PUNT_PUNTKOMA
+T4	INSERT 151 152	e
+#4	AnnotatorNotes T4	DiscourseMarker
+T5	SPOST_PHRASE 151 162	egiten dute
+T6	SPOST_PHRASE 163 168	hegan
+T7	SPOST_PHRASE 240 245	ordea
+#5	AnnotatorNotes T7	DiscourseMarker
+T8	DELETE 217 239	Azalpen horren partez,
+T9	MANCA_REGOLA 263 274	hegaldiaren
+#6	AnnotatorNotes T9	Noun2Verb
+T10	SPLIT 452 453	,
+#7	AnnotatorNotes T10	COORD
+T11	SPLIT 340 341	.
+#8	AnnotatorNotes T11	SOFT_KONPL
+T12	SPOST_X 247 262	asko zabaldu da
+#9	AnnotatorNotes T12	NS
+T13	SPLIT 435 441	egiten
+#10	AnnotatorNotes T13	SOFT_DENB
+T14	INSERT 440 441	n
+#11	AnnotatorNotes T14	DM
+T15	SPOST_CLAUSE 429 452	hegan egiten ari denean
+T16	SPOST_PHRASE 380 395	Printzipio hori
+T17	SPOST_PHRASE 409 428	hegazkinen hegoetan
+T18	SPOST_X 454 459	baina
+#12	AnnotatorNotes T18	CONJ
+T19	Phrase2Clause 466 477	hegaldiaren
+T20	SOST_SYN 478 485	eragile
+T21	Nominalizzazione 552 579	azalpenaren sinplifikazioak
+#13	AnnotatorNotes T21	Noun2Sentence
+T22	INSERT 593 603	bihurtu du
+#14	AnnotatorNotes T22	SUBJ
+T23	SPOST_PHRASE 604 613	Bernoulli
+T25	DELETE 748 764	gutxi gorabehera
+T26	DELETE_X 662 667	batek
+#16	AnnotatorNotes T26	DET
+T27	DELETE 708 713	ohiko
+T24	SPLIT 667 668	,
+#15	AnnotatorNotes T24	SOFT_ERLT
+T28	INSERT 694 705	egiten ditu
+#17	AnnotatorNotes T28	SUBJ_aurrekaria
+T29	DELETE_X 773 782	dagoenean
+#18	AnnotatorNotes T29	Clause_DENB
+T30	SOST_RIFORM 766 772	hutsik
+T31	No_operation 876 877	.
+T32	No_operation 942 943	.
+T33	No_operation 1023 1024	.
+T34	SOST_RIFORM 1095 1133	konpentsatzen duen indar bat behar da.
+#19	AnnotatorNotes T34	SINT_ERLT2KONPL "konpentsatu behar da indar baten bidez"
+T35	SPLIT 1248 1249	,
+#20	AnnotatorNotes T35	SOFT_KAUS
+T36	INSERT 1248 1249	,
+#21	AnnotatorNotes T36	DM
+T37	SOST_EXP-IMP 1273 1284	eusten dien
+#22	AnnotatorNotes T37	ERLT
+T38	SOST_EXP-IMP 1332 1344	eusten diona
+#23	AnnotatorNotes T38	ERLT
+T39	DELETE_X 1506 1646	"Paperezko hegazkinaren hegaldia azaltzen ez duen euste aerodinamikoaren edozein hipotesi seguruenik okerra da, eta --hau ziur-- osatugabea"
+#24	AnnotatorNotes T39	CLAUSE
+T40	SPLIT 1444 1451	blogeko
+#25	AnnotatorNotes T40	APO
+T41	DELETE_X 1410 1424	Hala esaten du
+#26	AnnotatorNotes T41	MainVerb
+T42	SPOST_CLAUSE 1425 1465	La Pizarra de Yuri blogeko Antonio Cantó
+T43	SPLIT 1480 1483	eta
+#27	AnnotatorNotes T43	SOFT_KOORD_SINT
+T44	INSERT 1484 1485	h
+#28	AnnotatorNotes T44	SUBJ
+T45	INSERT 1444 1451	blogeko
+#29	AnnotatorNotes T45	MainVerb
+T46	INSERT 1477 1479	le
+#30	AnnotatorNotes T46	MainVerb_APO
+T47	INSERT 1502 1504	ak
+#31	AnnotatorNotes T47	MainVerb_Apo
+T48	SPLIT 1772 1841	bakoitzak oso diseinu ezberdinarekin, eta bakoitzak bere kondizioekin
+#32	AnnotatorNotes T48	POST2CLAUSE_KOORD_SINT
+T49	DELETE_X 1810 1813	eta
+#33	AnnotatorNotes T49	CONJ
+T50	SPLIT 1808 1809	,
+#34	AnnotatorNotes T50	SOFT_KOORD_SINT
+T51	INSERT 1803 1808	rekin
+#35	AnnotatorNotes T51	MainVerb_POST
+T52	INSERT 1837 1841	ekin
+#36	AnnotatorNotes T52	MainVerb_POST
+T53	SPOST_PHRASE 1950 1954	hori
+T54	SPOST_X 1955 1957	da
+#37	AnnotatorNotes T54	VERB
+T55	SPLIT 2035 2036	,
+#38	AnnotatorNotes T55	SOFT_KOOORD
+T56	DELETE_X 2037 2040	eta
+#39	AnnotatorNotes T56	SUBJ
+T57	SPLIT 2152 2185	oinarrizko azalpen horren partez,
+#40	AnnotatorNotes T57	SOFT_POST2CLAUSE
+T58	INSERT 2178 2185	partez,
+#41	AnnotatorNotes T58	MainVerb_POST
+T59	INSERT 2178 2184	partez
+#42	AnnotatorNotes T59	NEG
+T60	INSERT 2196 2206	zabaldu da
+#43	AnnotatorNotes T60	SUBJ
+T61	DELETE_X 2208 2215	alegia,
+#44	AnnotatorNotes T61	DM
+T62	SOST_X 2214 2215	,
+#45	AnnotatorNotes T62	PUNT_BIPUNTU
+T63	Sub2Main 2242 2254	eusten diela
+#46	AnnotatorNotes T63	KONPL
+T64	SPLIT 2359 2360	,
+#47	AnnotatorNotes T64	SOFT_KOORD
+T65	SPLIT 2382 2383	,
+#48	AnnotatorNotes T65	SOFT_KAUS
+T66	INSERT 2382 2383	,
+#49	AnnotatorNotes T66	DM
+T67	SPLIT 2444 2447	eta
+#50	AnnotatorNotes T67	KAUS_KOORD
+T68	DELETE_X 2444 2447	eta
+#51	AnnotatorNotes T68	CONJ
+T69	SPLIT 2384 2414	benetan gertatzen den fenomeno
+#52	AnnotatorNotes T69	ERLT
+T70	INSERT 2392 2405	gertatzen den
+#53	AnnotatorNotes T70	SUBJ
+T71	SPLIT 2586 2615	Cecil Adams dibulgatzailearen
+#54	AnnotatorNotes T71	APO
+T72	INSERT 2598 2615	dibulgatzailearen
+#55	AnnotatorNotes T72	MainVerb_APO
+T73	SPLIT 2573 2585	idazten duen
+#56	AnnotatorNotes T73	ERLT
+T74	SPOST_X 2586 2615	Cecil Adams dibulgatzailearen
+#57	AnnotatorNotes T74	NS
+T75	INSERT 2573 2585	idazten duen
+#58	AnnotatorNotes T75	SUBJ
+T76	No_operation 2805 2806	.
+T77	SPLIT 2893 2894	,
+#59	AnnotatorNotes T77	KOORD
+T78	DELETE_X 2895 2898	eta
+#60	AnnotatorNotes T78	CONJ
+T79	DELETE 2939 2945	horren
+T80	SPLIT 3043 3044	,
+#61	AnnotatorNotes T80	SOFT_KOORD
+T81	INSERT 3054 3056	da
+#62	AnnotatorNotes T81	SUBJ
+T82	INSERT 3045 3046	b
+#63	AnnotatorNotes T82	PUNT_KOMA
+T83	INSERT 3049 3050	a
+#64	AnnotatorNotes T83	PUNT_KOMA
+T84	SPLIT 3213 3214	,
+#65	AnnotatorNotes T84	KOORD
+T85	DELETE_X 3215 3218	eta
+#66	AnnotatorNotes T85	CONJ
+T86	SPLIT 3250 3252	da
+#67	AnnotatorNotes T86	KAUS_NONFINITE
+T87	SPOST_PHRASE 3284 3292	ikerkete
+T88	SPLIT 3378 3379	,
+#68	AnnotatorNotes T88	POST2CLAUSE
+T89	ANAFORA 3341 3346	Haren
+T90	SPOST_X 3341 3379	Haren printzipio ezagunenaren arabera,
+#69	AnnotatorNotes T90	NS
+T91	DELETE_X 3394 3404	zenbat eta
+#70	AnnotatorNotes T91	Kuantifikatzailea
+T92	DELETE_X 3433 3443	orduan eta
+#71	AnnotatorNotes T92	Kuantifikatzailea
+T93	DELETE_X 3425 3431	mugitu
+#72	AnnotatorNotes T93	CLAUSE_KONP
+T94	DELETE_X 3539 3544	Berez
+#73	AnnotatorNotes T94	DiscourseMarker
+T95	ANAFORA 3660 3666	hartan
+T96	SPLIT 3705 3706	;
+#74	AnnotatorNotes T96	KOORD
+T97	DELETE_X 3825 3828	Eta
+#75	AnnotatorNotes T97	CONJ
+T98	DELETE_X 3853 3856	ere
+#76	AnnotatorNotes T98	DiscourseMarker
+T99	SPLIT 3942 3943	,
+#77	AnnotatorNotes T99	KOORD
+T100	DELETE_X 3917 3922	Baina
+#78	AnnotatorNotes T100	CONJ
+T101	DELETE_X 3944 3947	eta
+#79	AnnotatorNotes T101	CONJ
+T102	INSERT 3987 3992	handi
+#80	AnnotatorNotes T102	Elllided_MainVerb
+T103	No_operation 4055 4056	.
+T104	SPLIT 4179 4180	,
+#81	AnnotatorNotes T104	KOORD
+T105	SPLIT 4153 4156	eta
+#82	AnnotatorNotes T105	SOFT_KOORD
+T106	DELETE_X 4153 4156	eta
+#83	AnnotatorNotes T106	CONJ
+T107	INSERT 4153 4156	eta
+#84	AnnotatorNotes T107	DiscourseMarker
+T108	INSERT 4153 4156	eta
+#85	AnnotatorNotes T108	PUNT_KOMA
+T109	SPOST_PHRASE 4142 4152	goialdetik
+T110	DELETE_X 4117 4118	,
+#86	AnnotatorNotes T110	PUNT_KOMA
+T111	INSERT 4163 4167	dira
+#87	AnnotatorNotes T111	SUBJ
+T112	SPOST_PHRASE 4168 4179	azpialdetik
+T113	DELETE_X 4181 4184	eta
+#88	AnnotatorNotes T113	CONJ
+T114	MANCA_REGOLA 4185 4291	hegoaren goialdetik doan aireak bide luzeagoa egiten du eta azkarrago mugitzen da behealdetik doana baino.
+#89	AnnotatorNotes T114	#AZTERTU!!!
+T115	SPLIT 4403 4408	baino
+#90	AnnotatorNotes T115	SOFT_KONPA
+T116	INSERT 4403 4408	baino
+#91	AnnotatorNotes T116	MainVerb_KONPA
+T117	INSERT 4403 4408	baino
+#92	AnnotatorNotes T117	PRED
+T118	SPLIT 4473 4503	haren printzipioak azaltzen du
+#93	AnnotatorNotes T118	KONPL
+T119	SOST_X 4473 4503	haren printzipioak azaltzen du
+#94	AnnotatorNotes T119	NS
+T120	ANAFORA 4473 4478	haren
+T121	SOST_SYN 4492 4503	azaltzen du
+T122	INSERT 4492 4503	azaltzen du
+#95	AnnotatorNotes T122	OBJ
+T123	MANCA_REGOLA 4534 4546	egiten diola
+#96	AnnotatorNotes T123	SUBOR2MAIN
+T124	ANAFORA 4620 4626	horren
+T125	No_operation 4745 4746	.
+T126	SOST_X 4809 4810	;
+#97	AnnotatorNotes T126	PUNT_BIPUNTU
+T127	SPLIT 4840 4841	,
+#98	AnnotatorNotes T127	POST2CLAUSE
+T128	SPLIT 4871 4872	,
+#99	AnnotatorNotes T128	POST2CLAUSE
+T129	SOST_X 4832 4840	horretan
+#100	AnnotatorNotes T129	INE2SUBJ
+T130	INSERT 4832 4840	horretan
+#101	AnnotatorNotes T130	MainVerb_POST
+T131	INSERT 4855 4871	printzipioagatik
+#102	AnnotatorNotes T131	SUBJ
+T132	INSERT 4855 4871	printzipioagatik
+#103	AnnotatorNotes T132	MainVerb_POST
+T133	SPOST_X 4811 4841	hegoen ohiko diseinu horretan,
+#104	AnnotatorNotes T133	NS
+T134	SPOST_X 4842 4871	Bernoulliren printzipioagatik
+#105	AnnotatorNotes T134	NS
+T135	SPLIT 5011 5012	,
+#106	AnnotatorNotes T135	SOFT_KOORD
+T136	DELETE_X 5013 5016	eta
+#107	AnnotatorNotes T136	DiscourseMarker
+T137	No_operation 5162 5163	.
+T138	SPLIT 5420 5421	,
+#108	AnnotatorNotes T138	KOORD
+T139	SOST_RIFORM 5244 5270	hegazkinaren abiadurarekin
+#109	AnnotatorNotes T139	KOM2SUBJ
+T140	TRATTI_VERBO 5234 5243	egiten da
+#110	AnnotatorNotes T140	da2du
+T141	SPOST_PHRASE 5244 5270	hegazkinaren abiadurarekin
+T142	SPOST_PHRASE 5205 5225	Bernoulliren efektua
+T143	SPLIT 5270 5271	,
+#111	AnnotatorNotes T143	SOFT_KOORD
+T144	DELETE_X 5272 5277	baina
+#112	AnnotatorNotes T144	CONJ
+T145	SPLIT 5365 5367	-,
+#113	AnnotatorNotes T145	SOFT_PARENT
+T146	SOST_correction 5368 5376	abiadura
+T147	DELETE_X 5344 5348	bati
+#114	AnnotatorNotes T147	DET
+T148	INSERT 5333 5343	Cessna 152
+#115	AnnotatorNotes T148	MainVerb_PARENT
+T149	INSERT 5333 5343	Cessna 152
+#116	AnnotatorNotes T149	PRED
+T150	DELETE_X 5422 5425	eta
+#117	AnnotatorNotes T150	CONJ
+T151	DELETE_X 5529 5532	Eta
+#118	AnnotatorNotes T151	CONJ
+T152	SOST_X 5587 5588	;
+#119	AnnotatorNotes T152	PUNT_BIPUNT
+T153	Sub2Coor 5615 5625	eragindako
+#120	AnnotatorNotes T153	NonFiniteRelative
+T154	Sub2Coor 5660 5668	duenaren
+#121	AnnotatorNotes T154	FiniteRel_Elli
+T155	INSERT 5679 5691	dela iristen
+#122	AnnotatorNotes T155	SUBJ
+T156	Sub2Main 5679 5683	dela
+#123	AnnotatorNotes T156	KONPL
+T157	Sub2Coor 5753 5759	utzita
+#124	AnnotatorNotes T157	NonFiniteModal2Imperative
+T158	DELETE_X 5760 5763	ere
+#125	AnnotatorNotes T158	DiscourseMarker
+T159	SPLIT 5758 5759	a
+#126	AnnotatorNotes T159	SOFT_MODAL_NONFINITE
+T160	DELETE_X 5764 5776	atzematen da
+#127	AnnotatorNotes T160	MainVerb
+T161	Sub2Main 5801 5805	dela
+#128	AnnotatorNotes T161	KONPL
+T162	INSERT 5830 5831	.
+#129	AnnotatorNotes T162	ADB_MODAL "jakina!
+T163	SOST_RIFORM 5890 5905	egiten dituzten
+#130	AnnotatorNotes T163	REL2COMPOUND
+T164	ANAFORA 5978 5993	Hegazkin horiek
+T165	SPLIT 6028 6029	,
+#131	AnnotatorNotes T165	KOORD
+T166	DELETE_X 6030 6033	eta
+#132	AnnotatorNotes T166	CONJ
+T167	DELETE_X 6046 6047	,
+#133	AnnotatorNotes T167	PUNT_KOMA
+T168	SOST_CONNECTIVE_DISCOURSE 6058 6066	ez ezik,
+T169	DELETE_X 6088 6091	ere
+#134	AnnotatorNotes T169	DiscourseMarker
+T170	SOST_PER 6118 6122	dago
+T171	DELETE_X 6168 6180	aurkeztutako
+#135	AnnotatorNotes T171	NonFiniteRel
+T172	SOST_X 6162 6167	Goian
+#136	AnnotatorNotes T172	INE2GEL
+T173	DELETE_X 6279 6287	Bestalde
+#137	AnnotatorNotes T173	DiscourseMarker
+T174	DELETE_X 6287 6288	,
+#138	AnnotatorNotes T174	PUNT_KOMA
+T175	INSERT 6302 6309	ez dute
+#139	AnnotatorNotes T175	CONJ_DiscourseMarker
+T176	DELETE_X 6310 6326	lehen aipatutako
+#140	AnnotatorNotes T176	NonFiniteRel
+T177	MERGE 6436 6437	.
+T178	DELETE 6379 6390	Adibide bat
+T179	ANAFORA 6476 6481	Haien
+T180	DELETE_X 6425 6436	hegoak dira
+#141	AnnotatorNotes T180	SUBJ_VERB4MERGE
+T181	SOST_PER 6537 6541	dago
+T182	SPLIT 6649 6650	,
+#142	AnnotatorNotes T182	SOFT_KOORD
+T183	DELETE_X 6651 6654	eta
+#143	AnnotatorNotes T183	CONJ
+T184	INSERT 6663 6665	da
+#144	AnnotatorNotes T184	SUBJ
+T185	SOST_PER 6699 6701	du
+T186	INSERT 6699 6701	du
+#145	AnnotatorNotes T186	SUBJ
+T187	SPLIT 6701 6702	,
+#146	AnnotatorNotes T187	SOFT_INE
+T188	DELETE_X 6703 6706	eta
+#147	AnnotatorNotes T188	CONJ
+T189	INSERT 6758 6760	da
+#148	AnnotatorNotes T189	INE
+T190	SPOST_PHRASE 6800 6827	Beste adibide argigarri bat
+T191	DELETE_X 6824 6827	bat
+#149	AnnotatorNotes T191	DET
+T192	SOST_RIFORM 6800 6805	Beste
+#150	AnnotatorNotes T192	DET2DET_ERAKUSLE
+T193	SPLIT 7025 7026	,
+#151	AnnotatorNotes T193	SOFT_PARENT
+T194	INSERT 7038 7045	behetik
+#152	AnnotatorNotes T194	MainVerb_PARENT
+T195	INSERT 7038 7045	behetik
+#153	AnnotatorNotes T195	SUBJ
+T196	SPLIT 7141 7142	,
+#154	AnnotatorNotes T196	COORD
+T197	ANAFORA 7088 7095	Haietan
+T198	DELETE_X 7095 7096	,
+#155	AnnotatorNotes T198	PUNT_KOMA
+T199	DELETE_X 7143 7146	eta
+#156	AnnotatorNotes T199	CONJ
+T200	INSERT 7265 7266	,
+#157	AnnotatorNotes T200	Ellided_VERB
+T201	SOST_RIFORM 7267 7273	berdin
+#158	AnnotatorNotes T201	"gauza bera"
+T202	SOST_EXP-IMP 7320 7331	eusten dien
+#159	AnnotatorNotes T202	NonFiniteRel
+T203	SPLIT 7444 7445	,
+#160	AnnotatorNotes T203	SOFT_PARENT
+T204	DELETE_X 7473 7474	n
+#161	AnnotatorNotes T204	INE
+T205	INSERT 7462 7472	printzipio
+#162	AnnotatorNotes T205	MainVerb_PARENT
+T206	INSERT 7462 7472	printzipio
+#163	AnnotatorNotes T206	SUBJ
+T207	SPLIT 7513 7514	,
+#164	AnnotatorNotes T207	SOFT_NONFINITEMOD
+T208	SOST_IMP-EXP 7503 7513	bultzatuta
+#165	AnnotatorNotes T208	NONFINITEMOD
+T209	No_operation 7673 7674	.
+T210	SPLIT 7768 7769	,
+#166	AnnotatorNotes T210	SOFT_KOORD
+T211	INSERT 7787 7796	izaten du
+#167	AnnotatorNotes T211	SUBJ
+T212	SPLIT 7796 7797	,
+#168	AnnotatorNotes T212	SOFT_KOORD
+T213	DELETE_X 7798 7801	eta
+#169	AnnotatorNotes T213	CONJ
+T214	DELETE_X 7801 7802	,
+#170	AnnotatorNotes T214	PUNT_KOMA
+T215	SOST_X 7810 7821	horrengatik
+#171	AnnotatorNotes T215	CaseMarker_MOT2ABS
+T216	DELETE_X 7821 7822	,
+#172	AnnotatorNotes T216	PUNT_KOMA
+T217	SPOST_X 7823 7851	hegoaren atzetik irteten den
+#173	AnnotatorNotes T217	NS
+T218	SPLIT 7840 7851	irteten den
+#174	AnnotatorNotes T218	SOFT_REL
+T219	INSERT 7840 7851	irteten den
+#175	AnnotatorNotes T219	SUBJ
+T220	SOST_SYN 7868 7871	doa
+T221	TRATTI_VERBO 7868 7871	doa
+T222	SOST_X 7852 7857	airea
+#176	AnnotatorNotes T222	CaseMarker_ABS2DAT
+T223	Sub2Main 7917 7934	sentitu daitekeen
+#177	AnnotatorNotes T223	REL
+#178	AnnotatorNotes T19	GEN2NONFINITEREL
+T224	SPOST_PHRASE 7935 7942	indarra
+T225	SPLIT 8060 8061	,
+#179	AnnotatorNotes T225	REL
+T226	DELETE_X 8085 8090	berak
+#180	AnnotatorNotes T226	Emphatization
+T227	INSERT 8120 8124	nola
+#181	AnnotatorNotes T227	Ellided_Clause
+T228	SPLIT 8091 8105	--pilotua da--
+#182	AnnotatorNotes T228	APO
+T230	MERGE 8126 8127	"
+#184	AnnotatorNotes T230	#Aposizioa sinplifikatu duen esaldiarekin
+T229	SPLIT 8205 8206	a
+#183	AnnotatorNotes T229	SOFT_KOORD
+T231	SPOST_CLAUSE 8178 8190	segurua bada
+T232	SPOST_X 8156 8176	50 km/h-an gutxienez
+T233	DELETE_X 8207 8210	eta
+#185	AnnotatorNotes T233	CONJ
+#186	AnnotatorNotes T232	NS
+T234	SPLIT 8176 8177	,
+#187	AnnotatorNotes T234	SOFT_PARENT
+T235	INSERT 8156 8166	50 km/h-an
+#188	AnnotatorNotes T235	MainVerb_PARENT
+T236	SPLIT 8288 8294	biratu
+#189	AnnotatorNotes T236	KOORD
+T237	DELETE_X 8295 8298	eta
+#190	AnnotatorNotes T237	CONJ
+T238	Sub2Coor 8328 8339	jarriz gero
+#191	AnnotatorNotes T238	NONFINITEBALD
+T239	SPLIT 8339 8340	,
+#192	AnnotatorNotes T239	NONFINITEBALD
+T240	SPLIT 8486 8487	,
+#193	AnnotatorNotes T240	KONPL #menderagailurik gabe, estilo mistoa
+T241	SPOST_CLAUSE 8486 8487	,
+T242	INSERT 8476 8485	egiten da
+#194	AnnotatorNotes T242	MainClause_KONPL
+T243	SPOST_PHRASE 8538 8555	dokumental berean
+T244	INSERT 8554 8555	n
+#195	AnnotatorNotes T244	PUNT_KOMA
+T245	SPLIT 8522 8537	diseinatzaileak
+#196	AnnotatorNotes T245	SOFT_APO
+T246	SOST_SYN 8488 8496	azaltzen
+T247	INSERT 8522 8536	diseinatzailea
+#197	AnnotatorNotes T247	SUBJ_APO
+T248	INSERT 8522 8536	diseinatzailea
+#198	AnnotatorNotes T248	MainVerb_APO
+T249	No_operation 8640 8641	.
+T250	No_operation 8782 8783	.
+T251	DELETE_X 8823 8826	Eta
+#199	AnnotatorNotes T251	CONJ
+T252	SPLIT 9017 9018	,
+#200	AnnotatorNotes T252	NONFINITEHELB
+T253	INSERT 9017 9018	,
+#201	AnnotatorNotes T253	DiscourseMarker
+T254	SOST_X 9031 9032	a
+#202	AnnotatorNotes T254	ABS2ERG #OBJ2SUBJ
+T255	SPOST_CLAUSE 8993 9017	euste-indar bera izateko
+#203	AnnotatorNotes T255	#esaldi barruan
+T256	Sub2Main 8987 8992	bada,
+#204	AnnotatorNotes T256	FINITECOND
+T257	INSERT 8978 8986	mugitzen
+#205	AnnotatorNotes T257	ModalVerb
+T258	SPLIT 9215 9218	eta
+#206	AnnotatorNotes T258	KOORD
+T259	DELETE_X 9215 9218	eta
+#207	AnnotatorNotes T259	CONJ
+T260	SPLIT 9327 9328	,
+#208	AnnotatorNotes T260	KOORD
+T261	DELETE_X 9329 9332	eta
+#209	AnnotatorNotes T261	CONJ
+T262	INSERT 9329 9332	eta
+#210	AnnotatorNotes T262	DiscourseMarker
+T263	INSERT 9343 9348	erori
+#211	AnnotatorNotes T263	EllidedVerb
+T264	No_operation 9491 9492	.
+T265	SPOST_PHRASE 9666 9676	hegazkinak
+T266	Main2Sub 9652 9665	planeatuko du
+#212	AnnotatorNotes T266	NONFINITEHELB
+T267	Sub2Main 9629 9651	irauten duen bitartean
+#213	AnnotatorNotes T267	FINITEDENB
+T268	INSERT 9629 9636	irauten
+#214	AnnotatorNotes T268	ModalVerb
+T269	SOST_X 9732 9744	rekin batera
+#215	AnnotatorNotes T269	POST2ERG
+T270	DELETE_X 9744 9745	,
+#216	AnnotatorNotes T270	PUNT_KOMA
+T271	INSERT 9744 9745	,
+#217	AnnotatorNotes T271	CONJ
+T272	SPLIT 9836 9837	:
+#218	AnnotatorNotes T272	Enumeration
+T273	INSERT 9838 9839	h
+#219	AnnotatorNotes T273	MainClause_Enumeration
+T274	SPLIT 9852 9855	eta
+#220	AnnotatorNotes T274	SOFT_KOORD_SINT
+T275	INSERT 9856 9863	azalera
+#221	AnnotatorNotes T275	GEN_SINT
+T276	SPLIT 9915 9916	,
+#222	AnnotatorNotes T276	SOFT_KOORD_SINT
+T277	SOST_X 9924 9932	eta abar
+#223	AnnotatorNotes T277	ABS2ERG
+T278	SPLIT 10003 10004	,
+#224	AnnotatorNotes T278	KOORD
+T279	DELETE_X 10005 10008	eta
+#225	AnnotatorNotes T279	CONJ
+T280	ANAFORA 10009 10015	horrek
+T281	No_operation 10231 10232	.
+T282	SPLIT 10280 10292	egiten diren
+#226	AnnotatorNotes T282	SOFT_REL
+T283	DELETE_X 10359 10365	alegia
+#227	AnnotatorNotes T283	DiscourseMarker
+T284	SOST_RIFORM 10366 10395	hegoaren gainekoa eta azpikoa
+#228	AnnotatorNotes T284	ABS2GEN
+T285	SPLIT 10474 10475	,
+#229	AnnotatorNotes T285	KOORD
+T286	SPLIT 10491 10502	sortzen den
+#230	AnnotatorNotes T286	REL
+T287	DELETE_X 10476 10479	eta
+#231	AnnotatorNotes T287	CONJ
+T288	DELETE_X 10480 10490	horregatik
+#232	AnnotatorNotes T288	DiscourseMarker
+T289	TRATTI_VERBO 10491 10502	sortzen den
+#233	AnnotatorNotes T289	da2du
+T290	INSERT 10491 10502	sortzen den
+#234	AnnotatorNotes T290	SUBJ
+T291	INSERT 10512 10521	bultzadak
+#235	AnnotatorNotes T291	DET
+T292	SOST_X 10628 10640	azalpenetik.
+#236	AnnotatorNotes T292	CaseMarker_ABL2INE
+T293	SPLIT 10705 10706	,
+#237	AnnotatorNotes T293	SOFT_KOORD
+T294	SPOST_X 10707 10712	baina
+#238	AnnotatorNotes T294	CONJ
+T295	INSERT 10717 10718	a
+#239	AnnotatorNotes T295	PUNT_KOMA
+T296	INSERT 10711 10712	a
+#240	AnnotatorNotes T296	PUNT_KOMA
+T297	SOST_EXP-IMP 10835 10849	bihurtzen duen
+#241	AnnotatorNotes T297	NONFINITEREL
+T298	No_operation 10934 10935	.
+T299	No_operation 11068 11069	.
+T300	No_operation 11163 11164	.
+T301	TRATTI_VERBO 11229 11231	da
+#242	AnnotatorNotes T301	da2du
+T302	SOST_RIFORM 11271 11281	araberakoa
+#243	AnnotatorNotes T302	POST2MainVerb
+T303	SPLIT 11482 11483	,
+#244	AnnotatorNotes T303	KOORD
+T304	DELETE_X 11484 11487	eta
+#245	AnnotatorNotes T304	CONJ
+T305	DELETE_X 11487 11488	,
+#246	AnnotatorNotes T305	PUNT_KOMA
+T306	No_operation 11669 11670	.
+T307	No_operation 11792 11793	.
+T308	SPLIT 11909 11910	,
+#247	AnnotatorNotes T308	NONFINITEKONT
+T309	SPLIT 11930 11931	,
+#248	AnnotatorNotes T309	SOFT_FINITEKAUS
+T310	INSERT 11968 11980	eragiten due
+#249	AnnotatorNotes T310	SUBJ
+T311	INSERT 11930 11931	,
+#250	AnnotatorNotes T311	DiscourseMarker
+T312	INSERT 11905 11909	izan
+#251	AnnotatorNotes T312	SUBJ
+T313	INSERT 11861 11870	nahiz eta
+#252	AnnotatorNotes T313	DiscourseMarker
+T314	DELETE_X 12087 12088	,
+#253	AnnotatorNotes T314	PUNT_KOMA
+T315	SPOST_CLAUSE 12089 12114	hegaldia oso baxua denean
+T316	SOST_RIFORM 12045 12058	inguruan duen
+#254	AnnotatorNotes T316	REL2POST
+T317	DELETE 12155 12168	Kasu horretan
+T318	SPLIT 12378 12379	,
+#255	AnnotatorNotes T318	KOORD
+T319	DELETE_X 12380 12383	eta
+#256	AnnotatorNotes T319	CONJ
+T320	TRATTI_VERBO 12418 12420	da
+#257	AnnotatorNotes T320	da2du
+T321	INSERT 12410 12417	sortzen
+#258	AnnotatorNotes T321	SUBJ
+T322	DELETE_X 12461 12472	Sortzen den
+#259	AnnotatorNotes T322	Clause_ERLT
+T323	SPLIT 12492 12493	,
+#260	AnnotatorNotes T323	SOFT_KOORD
+T324	DELETE_X 12494 12497	eta
+#261	AnnotatorNotes T324	CONJ
+T325	Sub2Main 12509 12522	jasotzen duen
+#262	AnnotatorNotes T325	ERLT
+T326	DELETE_X 12547 12549	da
+#263	AnnotatorNotes T326	MainVerb
+T327	No_operation 12610 12611	.
+T328	SPLIT 12687 12688	,
+#264	AnnotatorNotes T328	SOFT_KOORD
+T329	DELETE_X 12689 12694	baina
+#265	AnnotatorNotes T329	CONJ
+T330	INSERT 12695 12699	bada
+#266	AnnotatorNotes T330	SUBJ
+T331	No_operation 12828 12829	.
+T332	No_operation 12915 12916	.
