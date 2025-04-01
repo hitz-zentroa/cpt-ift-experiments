@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=icl-eus-bench-lmeval
+#SBATCH --job-name=msgm
 #SBATCH --cpus-per-task=8
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
@@ -20,35 +20,20 @@ export TOKENIZERS_PARALLELISM=false
 
 
 models=(
-    #"ift-llama3dot1-baseline-alpaca_eus-lr1e05-10ksteps/checkpoint-15"
-    #"meta-llama/Llama-3.1-8B"
-    #"ift-llama-eus-alpaca-lr1e05-10ksteps/checkpoint-26"
-    "HiTZ/latxa-7b-v1.1"
-    "ahmedselhady/Llama-2-7B-eu-ema"
-    "ahmedselhady/llama2-7B-eus-v1"
-    #"ift-llama-eus-alpaca-lr1e04"
-    #"ift-llama-eus-alpaca-lr1e05"
-    #"google/gemma-2-9b"
-    #"Latxa3.1_8b_lr1e-5"
-    #"ift-gemma2-9b_alpaca_eus_lr1e-05-10ksteps/checkpoint-14"
-    #"task_added_llm3.1-8b-instruct_latxa"
+
+    "meta-llama/Llama-2-7b-hf"
+    "meta-llama/Llama-2-13b-hf"
+    "HiTZ/latxa-13b-v1.1"
+    #"ahmedselhady/llama2-7B-eus-v1"
+    #"ahmedselhady/Llama-2-7B-eu-ema"
+    #"HiTZ/latxa-7b-v1.1"
 )
 benchmarks=(
-    "mgsm_direct_eu"
-    #"mgsm_native_cot_eu"
-    #"belebele_eus_Latn"
-    #"eus_trivia"
-    #"eus_reading"
-    #"eus_proficiency"
-    #"eus_exams_eu"
-    #"xstorycloze_eu"
-    #"xnli_eu"
-    #"paws_eu"
-    #"piqa_eu"
-    #"copain"
+    #"mgsm_direct_eu"
+    "mgsm_native_cot_eu"
 )
 
-results_path=/gscratch5/users/asalem/taskvectors/results/
+results_path=/gscratch5/users/asalem/cpt-ift/results/msgm
 
 mkdir -p ${results_path}
 
@@ -67,7 +52,7 @@ for model in "${models[@]}"; do
         if [[ $benchmark_name == "xnli_eu" || $benchmark_name == "xstorycloze_eu" ]]; then
             num_fewshot=0
         else
-            num_fewshot=5
+            num_fewshot=8
         fi
 
         python3 -m lm_eval \
@@ -76,7 +61,7 @@ for model in "${models[@]}"; do
             --tasks $benchmark_name \
             --device cuda \
             --output_path ${results_path}/${model}/${benchmark_name}/${num_fewshot}-shot.json \
+            --num_fewshot ${num_fewshot} \
             --log_samples
-            #--num_fewshot ${num_fewshot} \
     done
 done
